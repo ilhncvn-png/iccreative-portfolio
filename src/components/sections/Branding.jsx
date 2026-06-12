@@ -183,18 +183,6 @@ export default function Branding() {
             >
               {t('branding.quote')}
             </span>
-            <span
-              style={{
-                fontSize:  '11px',
-                fontWeight: 400,
-                letterSpacing: '0.14em',
-                textTransform: 'uppercase',
-                color:     'var(--color-text-muted)',
-                opacity:   0.40,
-              }}
-            >
-              {t('branding.quote_author')}
-            </span>
           </div>
         </Reveal>
 
