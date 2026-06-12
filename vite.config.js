@@ -4,7 +4,7 @@ import react from '@vitejs/plugin-react'
 export default defineConfig({
   plugins: [react()],
 
-  // GitHub Pages subdomain deployment: https://iceven.github.io/iccreative-portfolio/
+  // GitHub Pages subdomain deployment: https://ilhncvn-png.github.io/iccreative-portfolio/
   // If you add a custom domain later, change this back to: base: '/'
   base: '/iccreative-portfolio/',
 

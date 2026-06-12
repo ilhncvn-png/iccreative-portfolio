@@ -6,15 +6,15 @@
 
   <!-- English (default) -->
   <url>
-    <loc>https://iceven.github.io/iccreative-portfolio/</loc>
+    <loc>https://ilhncvn-png.github.io/iccreative-portfolio/</loc>
     <lastmod>2026-06-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
-    <xhtml:link rel="alternate" hreflang="en"        href="https://iceven.github.io/iccreative-portfolio/"/>
-    <xhtml:link rel="alternate" hreflang="tr"        href="https://iceven.github.io/iccreative-portfolio/?lang=tr"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://iceven.github.io/iccreative-portfolio/"/>
+    <xhtml:link rel="alternate" hreflang="en"        href="https://ilhncvn-png.github.io/iccreative-portfolio/"/>
+    <xhtml:link rel="alternate" hreflang="tr"        href="https://ilhncvn-png.github.io/iccreative-portfolio/?lang=tr"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ilhncvn-png.github.io/iccreative-portfolio/"/>
     <image:image>
-      <image:loc>https://iceven.github.io/iccreative-portfolio/og-image.jpg</image:loc>
+      <image:loc>https://ilhncvn-png.github.io/iccreative-portfolio/og-image.jpg</image:loc>
       <image:title>iç creative — Brand Identity Designer &amp; Creative Director</image:title>
       <image:caption>Portfolio of brand identity, corporate identity and web design projects by Creative Director İlhan Çevn.</image:caption>
     </image:image>
@@ -22,15 +22,15 @@
 
   <!-- Turkish -->
   <url>
-    <loc>https://iceven.github.io/iccreative-portfolio/?lang=tr</loc>
+    <loc>https://ilhncvn-png.github.io/iccreative-portfolio/?lang=tr</loc>
     <lastmod>2026-06-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
-    <xhtml:link rel="alternate" hreflang="en"        href="https://iceven.github.io/iccreative-portfolio/"/>
-    <xhtml:link rel="alternate" hreflang="tr"        href="https://iceven.github.io/iccreative-portfolio/?lang=tr"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://iceven.github.io/iccreative-portfolio/"/>
+    <xhtml:link rel="alternate" hreflang="en"        href="https://ilhncvn-png.github.io/iccreative-portfolio/"/>
+    <xhtml:link rel="alternate" hreflang="tr"        href="https://ilhncvn-png.github.io/iccreative-portfolio/?lang=tr"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ilhncvn-png.github.io/iccreative-portfolio/"/>
     <image:image>
-      <image:loc>https://iceven.github.io/iccreative-portfolio/og-image.jpg</image:loc>
+      <image:loc>https://ilhncvn-png.github.io/iccreative-portfolio/og-image.jpg</image:loc>
       <image:title>iç creative — Marka Kimliği Tasarımcısı &amp; Kreatif Direktör</image:title>
       <image:caption>Kreatif Direktör İlhan Çevn'in marka kimliği, kurumsal kimlik ve web tasarımı portföyü.</image:caption>
     </image:image>
