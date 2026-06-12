@@ -5,4 +5,4 @@ Disallow: /.vite/
 
 # Sitemap
 # IMPORTANT: update domain before deploying
-Sitemap: https://iccreative.studio/sitemap.xml
+Sitemap: https://iceven.github.io/iccreative-portfolio/sitemap.xml

@@ -4,10 +4,9 @@ import react from '@vitejs/plugin-react'
 export default defineConfig({
   plugins: [react()],
 
-  // base: '/' is correct for custom domain (iccreative.studio)
-  // If deploying WITHOUT a custom domain to username.github.io/repo-name,
-  // change this to: base: '/repo-name/'
-  base: '/',
+  // GitHub Pages subdomain deployment: https://iceven.github.io/iccreative-portfolio/
+  // If you add a custom domain later, change this back to: base: '/'
+  base: '/iccreative-portfolio/',
 
   resolve: {
     alias: { '@': '/src' },
