@@ -641,11 +641,10 @@ export default function Hero() {
     <section
       id="hero"
       style={{
-        height:    'min(100vh, 980px)',
-        minHeight: '760px',
-        position:  'relative',
-        overflow:  'hidden',
-        display:   'flex',
+        minHeight:  'min(100vh, 980px)',
+        position:   'relative',
+        overflow:   'hidden',
+        display:    'flex',
         alignItems: 'center',
       }}
     >
