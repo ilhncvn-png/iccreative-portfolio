@@ -34,7 +34,6 @@ npm-debug.log*
 !public/**/*.png
 !public/apple-touch-icon.png
 !public/favicon-*.png
-DESIGN_SYSTEM.md
 PROJECT_PLAN.md
 VISUAL_EXPLORATION.md
 WIREFRAMES.md
