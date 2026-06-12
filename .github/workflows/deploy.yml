@@ -35,6 +35,19 @@ jobs:
       - name: Build
         run: npm run build
 
+      - name: Verify build output
+        run: |
+          if grep -q '/src/main.jsx' dist/index.html; then
+            echo "ERROR: dist/index.html still references /src/main.jsx — raw source was not built correctly"
+            exit 1
+          fi
+          if ! grep -q '/iccreative-portfolio/assets/' dist/index.html; then
+            echo "ERROR: dist/index.html does not reference built assets — base path may be wrong"
+            exit 1
+          fi
+          echo "✓ dist/index.html references compiled assets correctly"
+          ls -lh dist/assets/
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
