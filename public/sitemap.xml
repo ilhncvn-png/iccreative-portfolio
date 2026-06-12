@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml"
+  xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+  <!-- English (default) -->
+  <url>
+    <loc>https://iccreative.studio/</loc>
+    <lastmod>2026-06-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en"        href="https://iccreative.studio/"/>
+    <xhtml:link rel="alternate" hreflang="tr"        href="https://iccreative.studio/?lang=tr"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://iccreative.studio/"/>
+    <image:image>
+      <image:loc>https://iccreative.studio/og-image.jpg</image:loc>
+      <image:title>iç creative — Brand Identity Designer &amp; Creative Director</image:title>
+      <image:caption>Portfolio of brand identity, corporate identity and web design projects by Creative Director İlhan Çevn.</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Turkish -->
+  <url>
+    <loc>https://iccreative.studio/?lang=tr</loc>
+    <lastmod>2026-06-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en"        href="https://iccreative.studio/"/>
+    <xhtml:link rel="alternate" hreflang="tr"        href="https://iccreative.studio/?lang=tr"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://iccreative.studio/"/>
+    <image:image>
+      <image:loc>https://iccreative.studio/og-image.jpg</image:loc>
+      <image:title>iç creative — Marka Kimliği Tasarımcısı &amp; Kreatif Direktör</image:title>
+      <image:caption>Kreatif Direktör İlhan Çevn'in marka kimliği, kurumsal kimlik ve web tasarımı portföyü.</image:caption>
+    </image:image>
+  </url>
+
+</urlset>

@@ -1,0 +1,41 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Editor
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+
+# Vite
+.vite/
+
+# Development session screenshots and planning docs (not part of the project source)
+*.png
+!public/**/*.png
+!public/apple-touch-icon.png
+!public/favicon-*.png
+DESIGN_SYSTEM.md
+PROJECT_PLAN.md
+VISUAL_EXPLORATION.md
+WIREFRAMES.md
+ic_portfolio_claude_brief.md

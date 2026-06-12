@@ -1,0 +1,318 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ─── Design tokens ─── */
+:root {
+  --color-bg:            #020210;
+  --color-surface:       #070B16;
+  --color-card:          #0B1020;
+  --color-blue:          #3F8CFF;
+  --color-blue-hi:       #5B8FFF;
+  --color-cyan:          #00D4FF;
+  --color-orange:        #FF6B2B;
+  --color-amber:         #FFB347;
+  --color-violet:        #7B4FFF;
+  --color-text-primary:  #F0F2FF;
+  --color-text-secondary:#8A90A8;
+  --color-text-muted:    #3D4258;
+
+  --glass-1:             rgba(255,255,255,0.03);
+  --glass-2:             rgba(255,255,255,0.06);
+  --glass-3:             rgba(255,255,255,0.09);
+  --glass-border:        rgba(255,255,255,0.09);
+  --glass-border-hover:  rgba(255,255,255,0.20);
+
+  --ease-expo-out:  cubic-bezier(0.16, 1, 0.3, 1);
+  --ease-smooth:    cubic-bezier(0.4, 0, 0.2, 1);
+  --ease-appear:    cubic-bezier(0.25, 0.1, 0, 1);
+  --ease-spring:    cubic-bezier(0.34, 1.56, 0.64, 1);
+}
+
+/* ─── Base resets ─── */
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  scroll-behavior: smooth;
+  overflow-x: hidden;
+  /* Prevent flash of unstyled background */
+  background-color: #020210;
+}
+
+body {
+  background-color: var(--color-bg);
+  color: var(--color-text-primary);
+  font-family: 'Space Grotesk', 'Inter', ui-sans-serif, system-ui, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  overflow-x: hidden;
+  line-height: 1.5;
+}
+
+/* ─── Selection ─── */
+::selection {
+  background: rgba(63, 140, 255, 0.22);
+  color: var(--color-text-primary);
+}
+
+/* ─── Custom scrollbar ─── */
+::-webkit-scrollbar       { width: 5px; }
+::-webkit-scrollbar-track { background: #020210; }
+::-webkit-scrollbar-thumb {
+  background: rgba(63, 140, 255, 0.18);
+  border-radius: 3px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(63, 140, 255, 0.38);
+}
+
+/* ─── Focus ring ─── */
+:focus-visible {
+  outline: 2px solid var(--color-blue-hi);
+  outline-offset: 3px;
+  border-radius: 4px;
+}
+
+/* ─── Images ─── */
+img, svg { display: block; }
+
+/* ─── Remove default button chrome ─── */
+button { border: none; cursor: pointer; background: none; font: inherit; }
+a      { color: inherit; text-decoration: none; }
+
+/* ─── Utility layers ─── */
+@layer utilities {
+  .glass-1 {
+    background: var(--glass-1);
+    border: 1px solid var(--glass-border);
+  }
+  .glass-2 {
+    background: var(--glass-2);
+    border: 1px solid var(--glass-border);
+    backdrop-filter: blur(20px);
+    -webkit-backdrop-filter: blur(20px);
+  }
+  .glass-3 {
+    background: var(--glass-3);
+    border: 1px solid rgba(255,255,255,0.14);
+    backdrop-filter: blur(28px);
+    -webkit-backdrop-filter: blur(28px);
+  }
+  .glass-nav {
+    background: rgba(2, 2, 16, 0.82);
+    backdrop-filter: blur(24px) saturate(140%);
+    -webkit-backdrop-filter: blur(24px) saturate(140%);
+    border-bottom: 1px solid rgba(255,255,255,0.06);
+  }
+  .text-primary   { color: var(--color-text-primary); }
+  .text-secondary { color: var(--color-text-secondary); }
+  .text-muted     { color: var(--color-text-muted); }
+
+  .glow-blue  { box-shadow: 0 0 40px rgba(63,140,255,0.12); }
+  .glow-orange{ box-shadow: 0 0 40px rgba(255,107,43,0.18); }
+}
+
+/* ─── Intelligence Core — energy flow animations ─── */
+
+/* Ring rotations */
+@keyframes spinSlow    { to { transform: rotate(360deg);  } }
+@keyframes spinSlowR   { to { transform: rotate(-360deg); } }
+
+/* Chromatic membrane breathe — aura blobs grow + brighten */
+@keyframes chromaBreathe {
+  0%, 100% { transform: scale(1.00); opacity: 0.78; }
+  50%       { transform: scale(1.10); opacity: 1.00; }
+}
+@keyframes chromaBreatheAlt {
+  0%, 100% { transform: scale(1.07); opacity: 0.88; }
+  50%       { transform: scale(0.95); opacity: 0.62; }
+}
+
+/* Energy pulse ring — expands from core and fades */
+@keyframes energyPulse {
+  0%   { transform: scale(0.18); opacity: 0.72; }
+  65%  { opacity: 0; }
+  100% { transform: scale(1.00); opacity: 0; }
+}
+
+/* Particle drift — slow upward float */
+@keyframes particleDrift {
+  0%   { transform: translateY(0) translateX(0);    opacity: 0; }
+  14%  { opacity: 0.85; }
+  80%  { opacity: 0.45; }
+  100% { transform: translateY(-68px) translateX(10px); opacity: 0; }
+}
+
+/* Energy field line dash-travel
+   Use stroke-dasharray="5 95" → one dot per 100px of path
+   Offset goes from period to 0 for forward flow               */
+@keyframes flowFwd  { from { stroke-dashoffset: 100; } to { stroke-dashoffset: 0;    } }
+@keyframes flowRev  { from { stroke-dashoffset: 0;   } to { stroke-dashoffset: -100; } }
+
+/* Each path class sets its own duration so flows feel independent */
+.flow-a  { animation: flowFwd 14s linear infinite; }
+.flow-b  { animation: flowRev 18s linear infinite; }
+.flow-c  { animation: flowFwd  9s linear infinite; }
+.flow-d  { animation: flowRev 11s linear infinite; }
+.flow-e  { animation: flowFwd 16s linear infinite; }
+.flow-f  { animation: flowRev 13s linear infinite; }
+.flow-g  { animation: flowFwd  7s linear infinite; }
+.flow-h  { animation: flowRev  8s linear infinite; }
+
+/* Structural ring scanners */
+.ring-spin-cw  { animation: spinSlow  8s linear infinite;  transform-origin: center; }
+.ring-spin-ccw { animation: spinSlowR 14s linear infinite; transform-origin: center; }
+
+/* Data node pulse */
+@keyframes nodeBlink {
+  0%, 100% { opacity: 0.30; }
+  50%       { opacity: 0.85; }
+}
+@keyframes nodeAccent {
+  0%, 100% { opacity: 0.65; r: 4;  }
+  50%       { opacity: 1.00; r: 5.5; }
+}
+
+/* Inner membrane shimmer */
+@keyframes membraneShimmer {
+  0%, 100% { opacity: 0.55; }
+  50%       { opacity: 0.85; }
+}
+
+/* Logo mark ambient pulse — glow div scale, compositor-safe */
+@keyframes logoMarkPulse {
+  0%, 88%, 100% { transform: scale(1.00); opacity: 0.82; }
+  92%, 96%      { transform: scale(1.20); opacity: 1.00; }
+}
+
+/* Logo signature pulse — barely perceptible, fires every ~10 seconds */
+@keyframes logoGlow {
+  0%, 88%, 100% {
+    text-shadow:
+      0 0 40px rgba(63,140,255,0.30),
+      0 0 80px rgba(63,140,255,0.10);
+  }
+  92%, 96% {
+    text-shadow:
+      0 0 58px rgba(63,140,255,0.52),
+      0 0 112px rgba(63,140,255,0.22),
+      0 0 180px rgba(63,140,255,0.07);
+  }
+}
+/* Compact version for sticky nav */
+@keyframes logoGlowSm {
+  0%, 88%, 100% {
+    text-shadow:
+      0 0 28px rgba(63,140,255,0.28),
+      0 0 56px rgba(63,140,255,0.10);
+  }
+  92%, 96% {
+    text-shadow:
+      0 0 42px rgba(63,140,255,0.48),
+      0 0 80px rgba(63,140,255,0.20);
+  }
+}
+
+/* Core breathe */
+@keyframes coreBreathe {
+  0%, 100% {
+    box-shadow:
+      0 0 16px rgba(63,140,255,0.9),
+      0 0 36px rgba(63,140,255,0.5),
+      0 0 72px rgba(63,140,255,0.25),
+      0 0 120px rgba(63,140,255,0.10);
+  }
+  50% {
+    box-shadow:
+      0 0 24px rgba(100,170,255,1.0),
+      0 0 56px rgba(63,140,255,0.7),
+      0 0 100px rgba(63,140,255,0.35),
+      0 0 180px rgba(63,140,255,0.15);
+  }
+}
+
+/* ─── Hero responsive layout ─── */
+.hero-left-col  { grid-column: 1 / 7; }
+.hero-right-col { grid-column: 7 / 13; }
+
+@media (max-width: 1023px) {
+  .hero-left-col  {
+    grid-column: 1 / -1 !important;
+    text-align: center;
+    align-items: center;
+  }
+  .hero-right-col { display: none !important; }
+}
+
+@media (max-width: 767px) {
+  .hero-left-col { gap: 24px !important; }
+}
+
+/* ─── Chromatic orb breathing — CSS classes consumed by ChromaticBackground ─── */
+@keyframes orbBreathe1 {
+  0%, 100% { transform: translate(0px,  0px)  scale(1.00); opacity: 0.80; }
+  50%       { transform: translate(28px, -18px) scale(1.07); opacity: 1.00; }
+}
+@keyframes orbBreathe2 {
+  0%, 100% { transform: translate(0px,   0px) scale(1.00); opacity: 0.70; }
+  50%       { transform: translate(-22px, 26px) scale(1.05); opacity: 0.90; }
+}
+@keyframes orbBreathe3 {
+  0%, 100% { transform: translate(0px, 0px) scale(1.00); opacity: 0.80; }
+  50%       { transform: translate(18px, 12px) scale(1.10); opacity: 1.00; }
+}
+.animate-orb-1 { animation: orbBreathe1 26s ease-in-out infinite; will-change: transform; }
+.animate-orb-2 { animation: orbBreathe2 34s ease-in-out infinite; will-change: transform; }
+.animate-orb-3 { animation: orbBreathe3 20s ease-in-out infinite 4s; will-change: transform; }
+
+/* ─── Ambient particle drifts — 4 patterns, transform+opacity only ─── */
+@keyframes ambientDriftA {
+  0%   { transform: translate(  0px,  0px) scale(1.0);  opacity: 0.22; }
+  25%  { transform: translate( 20px,-14px) scale(1.25); opacity: 0.14; }
+  50%  { transform: translate(-11px, 22px) scale(0.80); opacity: 0.28; }
+  75%  { transform: translate( 15px,  7px) scale(1.10); opacity: 0.18; }
+  100% { transform: translate(  0px,  0px) scale(1.0);  opacity: 0.22; }
+}
+@keyframes ambientDriftB {
+  0%   { transform: translate(  0px,  0px) scale(1.0);  opacity: 0.18; }
+  33%  { transform: translate(-17px, 21px) scale(1.20); opacity: 0.26; }
+  66%  { transform: translate( 23px, -9px) scale(0.88); opacity: 0.14; }
+  100% { transform: translate(  0px,  0px) scale(1.0);  opacity: 0.18; }
+}
+@keyframes ambientDriftC {
+  0%   { transform: translate( 0px,  0px); opacity: 0.20; }
+  20%  { transform: translate(13px, 19px); opacity: 0.30; }
+  60%  { transform: translate(-19px,-7px); opacity: 0.15; }
+  80%  { transform: translate( 5px, 13px); opacity: 0.25; }
+  100% { transform: translate( 0px,  0px); opacity: 0.20; }
+}
+@keyframes ambientDriftD {
+  0%   { transform: translate(  0px,  0px); opacity: 0.16; }
+  40%  { transform: translate(-24px, 13px); opacity: 0.25; }
+  70%  { transform: translate(  9px,-17px); opacity: 0.20; }
+  100% { transform: translate(  0px,  0px); opacity: 0.16; }
+}
+
+/* ─── Slow membrane blob drift ─── */
+@keyframes blobDrift1 {
+  0%, 100% { transform: translate(  0px,  0px) scale(1.00); opacity: 0.72; }
+  50%       { transform: translate( 38px,-28px) scale(1.06); opacity: 1.00; }
+}
+@keyframes blobDrift2 {
+  0%, 100% { transform: translate(  0px, 0px) scale(1.00); opacity: 0.65; }
+  50%       { transform: translate(-32px,36px) scale(0.95); opacity: 0.90; }
+}
+
+/* ─── Reduced motion override ─── */
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}

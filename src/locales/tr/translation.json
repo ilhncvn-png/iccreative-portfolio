@@ -1,0 +1,799 @@
+{
+  "nav": {
+    "experience": "Deneyim",
+    "services": "Hizmetler",
+    "work": "Çalışmalar",
+    "process": "Süreç",
+    "contact": "İletişim",
+    "cta": "Proje Başlat"
+  },
+  "hero": {
+    "tag": "Yaratıcı Direktör · Yapay Zeka Sistemleri · Marka Stratejisti",
+    "brands_tagline": "Markalar · Yapay Zeka · Deneyimler",
+    "headline": [
+      "Markalar,",
+      "Sistemler",
+      "ve",
+      "Dijital",
+      "Deneyimler",
+      "Tasarıyorum"
+    ],
+    "subline": "25+ yıllık yaratıcı yönetim birikimimi yapay zeka çağına taşıyorum — görünüş kadar düşünen marka sistemleri, dijital deneyimler ve içerik ekosistemleri kuruyorum.",
+    "cta_primary": "Markanı Birlikte Kuralım",
+    "cta_secondary": "Çalışmaları Gör",
+    "stat_years_label": "Yıl",
+    "stat_disciplines_label": "Disiplin",
+    "stat_clients_label": "Müşteri",
+    "stat_powered_label": "Destekli",
+    "scroll": "Kaydır",
+    "micro_strategy": "STRATEJİ",
+    "micro_branding": "MARKA",
+    "micro_motion": "HAREKET",
+    "micro_web": "WEB",
+    "micro_content": "İÇERİK",
+    "micro_ai": "YZ"
+  },
+  "experience": {
+    "section_label": "Deneyim",
+    "title_line1": "25+ Yıllık",
+    "title_line2": "Yaratıcı Yönetim",
+    "subtitle": "Marka kimliğinden dijital sistemlere, sosyal içerikten yapay zeka destekli iş akışlarına — modern markalar için eksiksiz yaratıcı ekosistemler kuruyorum.",
+    "years_value": "25+",
+    "years_label": "Yıl",
+    "projects_value": "500+",
+    "projects_label": "Proje",
+    "disciplines_value": "6",
+    "disciplines_label": "Disiplin",
+    "clients_value": "Global",
+    "clients_label": "Müşteri",
+    "caps_label": "Yetkinlikler",
+    "caps": [
+      {
+        "title": "Marka Stratejisi",
+        "desc": "Modern markalar için konumlama, mesajlaşma mimarisi ve pazara giriş stratejisi."
+      },
+      {
+        "title": "Kimlik Sistemleri",
+        "desc": "Ölçeklenebilen görsel dil, logo sistemleri ve marka kılavuzları."
+      },
+      {
+        "title": "Web Deneyimleri",
+        "desc": "Yüksek dönüşüm sağlayan dijital ürünler ve platformlar için tasarım ve geliştirme."
+      },
+      {
+        "title": "Sosyal Medya",
+        "desc": "Platformlar genelinde içerik stratejisi, görsel sistemler ve topluluk büyümesi."
+      },
+      {
+        "title": "YouTube Ekosistemleri",
+        "desc": "Video markaları için kanal stratejisi, prodüksiyon tasarımı ve büyüme çerçeveleri."
+      },
+      {
+        "title": "Yapay Zeka İş Akışları",
+        "desc": "İçerik, tasarım ve marka otomasyonu için özel yapay zeka destekli hatlar."
+      },
+      {
+        "title": "Hareket Tasarımı",
+        "desc": "Dijital varlık için marka hareketi, arayüz animasyonu ve sinematik hikaye anlatımı."
+      },
+      {
+        "title": "Yaratıcı Yönetim",
+        "desc": "İlk konseptten son lansmanına kadar uçtan uca yaratıcı liderlik."
+      }
+    ]
+  },
+  "services": {
+    "section_label": "Hizmetler",
+    "title": "Tek bir yaratıcı pratiğin altında her yetkinlik.",
+    "subtitle": "Marka kimliğinden yapay zeka destekli sistemlere, web tasarımından YouTube büyümesine — modern markalar için tam hizmet yaratıcı pratik.",
+    "items": [
+      {
+        "title": "Markalama",
+        "value": "Alanına hâkim kimlik.",
+        "caps": [
+          "Marka stratejisi ve konumlama",
+          "Görsel kimlik sistemleri",
+          "Marka mimarisi ve kılavuzları"
+        ]
+      },
+      {
+        "title": "Web Tasarımı",
+        "value": "Dönüştüren dijital varlık.",
+        "caps": [
+          "UX stratejisi ve bilgi mimarisi",
+          "Yüksek dönüşümlü arayüz tasarımı",
+          "React frontend geliştirme"
+        ]
+      },
+      {
+        "title": "Yapay Zeka Geliştirme",
+        "value": "Ölçekte yaratıcı üretim.",
+        "caps": [
+          "Özel LLM ve otomasyon hatları",
+          "İçerik üretim sistemleri",
+          "Marka yapay zeka entegrasyonu ve eğitimi"
+        ]
+      },
+      {
+        "title": "Sosyal Medya",
+        "value": "Her gün büyüyen varlık.",
+        "caps": [
+          "İçerik stratejisi ve görsel sistemler",
+          "Her platform için şablon kütüphaneleri",
+          "Platforma özgü yaratıcı yönetim"
+        ]
+      },
+      {
+        "title": "YouTube Büyümesi",
+        "value": "Kalıcı kitle altyapısı.",
+        "caps": [
+          "Kanal stratejisi ve SEO mimarisi",
+          "Küçük resim, başlık ve kanca sistemleri",
+          "Yayın iş akışları ve büyüme takibi"
+        ]
+      },
+      {
+        "title": "Hareket ve Video",
+        "value": "Harekete geçiren hikayeler.",
+        "caps": [
+          "Marka hareket tasarımı ve arayüz animasyonu",
+          "Video yaratıcı yönetimi",
+          "Kısa ve uzun form prodüksiyon"
+        ]
+      }
+    ]
+  },
+  "ai": {
+    "section_label": "Yapay Zeka Geliştirme",
+    "title_line1": "Yaratıcı direktör gibi",
+    "title_line2": "düşünen yapay zeka.",
+    "benefits": [
+      {
+        "title": "Fedakarlıksız hız",
+        "desc": "Yapay zeka iş akışları, yaratıcı kontrolden ya da ton hassasiyetinden ödün vermeden ölçekte marka uyumlu çıktı üretir."
+      },
+      {
+        "title": "Hazır değil, özel",
+        "desc": "Her sistem, belirli bir marka sesi, görsel dil ve kitle bağlamı etrafında sıfırdan inşa edilir."
+      },
+      {
+        "title": "Birikerek büyür",
+        "desc": "Her yinelemede daha akıllı ve verimli hale gelen hatlar ve otomasyon sistemleri."
+      }
+    ],
+    "stack_label": "Yetkinlik Endeksi",
+    "stack": [
+      {
+        "label": "Claude Code ve Yapay Zeka CLI",
+        "cat": "Otomasyon"
+      },
+      {
+        "label": "Özel LLM Hatları",
+        "cat": "Mimari"
+      },
+      {
+        "label": "Marka Sesi Eğitimi",
+        "cat": "İnce Ayar"
+      },
+      {
+        "label": "İçerik Üretim Sistemleri",
+        "cat": "Prodüksiyon"
+      },
+      {
+        "label": "Yapay Zeka Destekli Tasarım",
+        "cat": "Yaratıcı"
+      },
+      {
+        "label": "Prompt Mimarisi",
+        "cat": "Strateji"
+      },
+      {
+        "label": "Otomasyon Komut Dosyaları",
+        "cat": "Backend"
+      },
+      {
+        "label": "Görsel Yapay Zeka Entegrasyonu",
+        "cat": "Tasarım"
+      }
+    ]
+  },
+  "branding": {
+    "section_label": "Marka",
+    "title_line1": "Her ölçekte",
+    "title_line2": "marka düşüncesi.",
+    "subtitle": "Marka, bir logodan çok daha fazlasıdır — insanların bir işletme hakkındaki toplam algısıdır. Konumlamadan metne kadar her unsur o algıyı şekillendirir.",
+    "pillars": [
+      {
+        "word": "KONUMLAMA",
+        "title": "Markanın kazandığı yer",
+        "desc": "Markanın pazarda sahip olduğu alanı tanımlamak — ve neden orada olması gerektiğini ortaya koymak."
+      },
+      {
+        "word": "KİMLİK",
+        "title": "Görsel dil",
+        "desc": "Logo sistemleri, tipografi, renk, ikonografi ve hareket — ölçeklenen eksiksiz bir tasarım dili."
+      },
+      {
+        "word": "MİMARİ",
+        "title": "Ölçekte yapı",
+        "desc": "Birden fazla ürün veya pazarda faaliyet gösteren markalar için hiyerarşi, ilişkiler ve adlandırma sistemleri."
+      },
+      {
+        "word": "MESAJLAŞMA",
+        "title": "Rezonans kuran sözcükler",
+        "desc": "Özgün ve akılda kalan isim, slogan, ton ve mesajlaşma çerçeveleri."
+      }
+    ],
+    "quote": "\"Net düşünen markalar, özgüvenle sunar.\"",
+    "quote_author": "— İlhan Çevn"
+  },
+  "web": {
+    "section_label": "Web Tasarımı",
+    "title_line1": "Dönüştüren",
+    "title_line2": "tasarım.",
+    "subtitle": "Birinci ilkelerden inşa edilmiş premium dijital deneyimler — düzenden yükleme hızına kadar her karar nihai sonuca hizmet eder.",
+    "features": [
+      {
+        "title": "UX Stratejisi",
+        "desc": "Tek bir görsel unsur yerleştirilmeden önce kullanıcı yolculukları, bilgi mimarisi ve dönüşüm mantığı."
+      },
+      {
+        "title": "Görsel Tasarım",
+        "desc": "Güçlü tipografik ritim, bilinçli renk ve hassas boşluğa dayalı arayüz sistemleri."
+      },
+      {
+        "title": "Frontend Geliştirme",
+        "desc": "Akıcı animasyon, erişilebilir işaretleme ve performans öncelikli mimariyle React destekli geliştirme."
+      },
+      {
+        "title": "Dönüşüm Optimizasyonu",
+        "desc": "Her harekete geçirici öğe, düzen ve metin kararı hedeflenen eylem gözetilerek alınır."
+      },
+      {
+        "title": "Performans Mühendisliği",
+        "desc": "Core Web Vitals, geç yükleme ve optimize edilmiş varlıklar — çünkü hız bir özelliktir."
+      }
+    ]
+  },
+  "content": {
+    "section_label": "İçerik ve YouTube",
+    "title_line1": "Kitle inşa eden içerik.",
+    "title_line2": "Ölçeklendiren",
+    "title_line3": "sistemler.",
+    "subtitle": "İçerik ekosistemleri, yayın programlarından fazlasıdır. Kanal mimarisinden yapay zeka destekli prodüksiyona, kitle büyüme stratejisine kadar — birikerek büyüyecek şekilde kurulmuş.",
+    "outcomes": [
+      {
+        "label": "Strateji",
+        "desc": "Yön"
+      },
+      {
+        "label": "Sistemler",
+        "desc": "Ölçek"
+      },
+      {
+        "label": "Prodüksiyon",
+        "desc": "Kalite"
+      },
+      {
+        "label": "Büyüme",
+        "desc": "Birikim"
+      }
+    ],
+    "platforms": [
+      {
+        "name": "YouTube",
+        "role": "Ana Kanal"
+      },
+      {
+        "name": "Instagram",
+        "role": "Görsel Marka"
+      },
+      {
+        "name": "LinkedIn",
+        "role": "Düşünce Liderliği"
+      },
+      {
+        "name": "TikTok",
+        "role": "Kısa Form"
+      },
+      {
+        "name": "Behance",
+        "role": "Portfolyo"
+      }
+    ],
+    "caps": [
+      {
+        "title": "Kanal Stratejisi",
+        "desc": "Her aşamadaki YouTube kanalları için konu mimarisi, içerik sütunları ve büyüme yol haritaları."
+      },
+      {
+        "title": "İçerik Mimarisi",
+        "desc": "İçeriği tutarlı ve ölçeklenebilir tutan editoryal çerçeveler ve yayın sistemleri."
+      },
+      {
+        "title": "Yapay Zeka Müzik ve Video",
+        "desc": "Müzik görselleştiriciler, sözlü videolar ve otomatik içerik için yapay zeka destekli prodüksiyon hatları."
+      },
+      {
+        "title": "Shorts ve Reels Sistemleri",
+        "desc": "Kanca yapıları, altyazı şablonları ve yayın sıklığıyla kısa form içerik çerçeveleri."
+      },
+      {
+        "title": "Küçük Resim ve Başlık Yönetimi",
+        "desc": "Kanal kıyaslamalarına göre test edilmiş tıklama optimizasyonlu görsel ve metin sistemleri."
+      },
+      {
+        "title": "Kitle Büyüme Mimarisi",
+        "desc": "Birikim sağlayan kitle büyümesi için SEO, topluluk tetikleyicileri ve algoritma farkında stratejiler."
+      }
+    ]
+  },
+  "work": {
+    "section_label": "Seçme Çalışmalar",
+    "title_line1": "Güven kazanan",
+    "title_line2": "çalışma.",
+    "subtitle": "Marka, dijital ve içerik projelerinden bir seçme. Talep üzerine tam vaka incelemeleri sunulur.",
+    "case_study_cta": "Vaka incelemesi talep üzerine →",
+    "visual_coming": "Görsel Yakında",
+    "projects": [
+      {
+        "category": "Marka Kimliği · Uygulama Tasarımı · Görsel Kimlik",
+        "title": "iNeed",
+        "headline": "Talep Üzerine Hizmet Markası ve Görsel Kimlik",
+        "impact": "Çok hizmetli bir talep üzerine platform için eksiksiz marka kimliği sistemi — logo, uygulama ikonu, görsel dil ve iNeed, iNeedhome ile iNeedCar'ı kapsayan alt marka mimarisi.",
+        "tools": [
+          "Marka Kimliği",
+          "Logo Tasarımı",
+          "Uygulama İkonu",
+          "Görsel Kimlik",
+          "Marka Mimarisi"
+        ],
+        "overview": "iNeed; kullanıcıları teslimat, ev hizmetleri ve ulaşımla buluşturan çok hizmetli bir talep üzerine platformdur. Proje; birincil sözcük markası ve uygulama ikonundan üç ayrı hizmet kolunu kapsayan yapılandırılmış bir alt marka mimarisine kadar eksiksiz bir marka kimliği sistemi gerektirdi.",
+        "challenge": "Her birinin kendine özgü rengi ve karakteri bulunan üç farklı hizmet kategorisini destekleyecek kadar esnek, ancak tek bir platform olarak anında tanınabilecek birleşik bir kimlik oluşturmak. İşaretin uygulama ikonu ölçeğinde ve açık hava reklamcılığında eşit oranda çalışması gerekiyordu.",
+        "solution": "Yön ve teslimatı bir bakışta ileten, ok entegre edilmiş özel N harfine sahip iNeed sözcük markası. Köşeleri yuvarlak kare uygulama ikonu, N işaretini tüm dijital yüzeylerde taşır. Alt marka mimarisi rengi birincil farklılaştırıcı olarak kullanır: iNeed için elektrik mavisi, iNeedhome için kırmızı, iNeedCar için sarı — ortak tipografi ve ikon sistemiyle platform bütünlüğü sağlanır.",
+        "deliverables": [
+          "Logo ve Sözcük Markası",
+          "Uygulama İkonu Sistemi",
+          "Renk Sistemi",
+          "Alt Marka Mimarisi",
+          "Görsel Kimlik Kılavuzu",
+          "Ambalaj ve Promosyon",
+          "Mobil Uygulama UI Yönlendirmesi",
+          "Açık Hava Reklamcılığı",
+          "Marka Sunumları"
+        ],
+        "images": [
+          "/projects/ineed/ineed_001.webp",
+          "/projects/ineed/ineed_002.jpg",
+          "/projects/ineed/ineed_003.jpg",
+          "/projects/ineed/ineed_004.jpg",
+          "/projects/ineed/ineed_005.jpg",
+          "/projects/ineed/ineed_006.jpg",
+          "/projects/ineed/ineed_007.jpg"
+        ]
+      },
+      {
+        "category": "Marka Kimliği · Uygulama Tasarımı · Mobil UI",
+        "title": "chargenest",
+        "headline": "EV Şarj Platformu Markası ve Uygulama Tasarımı",
+        "impact": "Sürdürülebilir kentsel mobilite girişimi için eksiksiz marka kimliği ve uygulama tasarım sistemi — logo ve uygulama ikonundan endüstriyel tasarım konseptlerine ve açık hava reklamcılığına kadar.",
+        "tools": [
+          "Marka Kimliği",
+          "Logo Tasarımı",
+          "Uygulama İkonu",
+          "Mobil UI",
+          "Endüstriyel Tasarım"
+        ],
+        "overview": "chargenest; elektrikli araç sürücülerinin özel bir mobil uygulama aracılığıyla şarj istasyonlarını bulmasını, rezervasyon yapmasını ve kullanmasını sağlayan sürdürülebilir kentsel mobilite teknoloji platformudur. Proje; marka işareti ve kimlikten mobil uygulama arayüzüne, endüstriyel tasarım araştırmasına ve açık hava reklamcılığına kadar eksiksiz bir yaratıcı sistem gerektirdi.",
+        "challenge": "Yükselen bir pazar olan EV şarjı için teknik veya karmaşık hissettirmeden güvenilirlik ve ileri görüşlü yenilikçilik ileten bir marka oluşturmak. Kimliğin aynı anda mobil uygulama, fiziksel şarj cihazı donanımı ve sokak ölçeğindeki açık hava reklamcılığında çalışması gerekiyordu.",
+        "solution": "C harfini elektrik fişi biçimiyle birleştiren özel C amblemi — her boyutta basit, akılda kalıcı ve anında okunabilir. Parlak mint yeşili enerji, sürdürülebilirlik ve ilerlemeyi simgeler. Yuvarlak sözcük markası markayı ulaşılabilir tutarken sistemin bütünü otoritesini korur. Endüstriyel tasarım eskizleri 20'den fazla şarj cihazı form faktörünü araştırdı; mobil arayüz hızlı ve güvenli slot rezervasyonu için tasarlandı.",
+        "deliverables": [
+          "Logo ve Marka İşareti",
+          "Uygulama İkonu Sistemi",
+          "Renk ve Tipografi Sistemi",
+          "Mobil Uygulama UI Tasarımı",
+          "Endüstriyel Tasarım Konseptleri",
+          "Reklam Materyalleri",
+          "Açık Hava Reklamcılığı",
+          "Uygulama Açılış Ekranı"
+        ],
+        "images": [
+          "/projects/chargenest/chargenest_001.webp",
+          "/projects/chargenest/chargenest_002.jpg",
+          "/projects/chargenest/chargenest_003.jpg",
+          "/projects/chargenest/chargenest_004.jpg",
+          "/projects/chargenest/chargenest_005.jpg",
+          "/projects/chargenest/chargenest_006.jpg",
+          "/projects/chargenest/chargenest_007.jpg",
+          "/projects/chargenest/chargenest_008.jpg",
+          "/projects/chargenest/chargenest_009.jpg",
+          "/projects/chargenest/chargenest_010.jpg",
+          "/projects/chargenest/chargenest_011.jpg",
+          "/projects/chargenest/chargenest_012.jpg"
+        ]
+      },
+      {
+        "category": "Marka Kimliği · Web Tasarımı · Kurumsal Kimlik",
+        "title": "EverCraft",
+        "headline": "BT Çözümleri Marka Kimliği ve Kurumsal Tasarım Sistemi",
+        "impact": "Teknoloji çözümleri şirketi için eksiksiz kurumsal kimlik sistemi — logo, kırtasiye, sosyal medya şablonları, web sitesi tasarımı, firma sunumu ve çevresel tabela.",
+        "tools": [
+          "Marka Kimliği",
+          "Logo Tasarımı",
+          "Web Tasarımı",
+          "Sosyal Medya",
+          "Firma Sunumu"
+        ],
+        "overview": "EverCraft Solution, 2011 yılında kurulmuş; danışmanlık, yazılım geliştirme, sistem entegrasyonu ve süregelen destek alanlarında yenilikçi, güvenilir ve ölçeklenebilir BT çözümleri sunmaya odaklı bir teknoloji şirketidir. Proje; kartvizitden billboarda kadar her temas noktasında otoriteyi, güveni ve ileri görüşlü yetkinliği ileten eksiksiz bir kurumsal kimlik sistemi gerektirdi.",
+        "challenge": "Modern ve ileriye dönük kalırken yerleşik ve güvenilir hissettiren bir marka kimliği oluşturmak. Sistemin karmaşık çok hizmetli yapıyı baskı, dijital ve çevresel uygulamalarda tutarlı biçimde ölçeklenen tek bir görsel dil altında birleştirmesi gerekiyordu.",
+        "solution": "Hassas çokgen yüzeylerden oluşan geometrik origami kuş işareti; kesinliği, zekayı ve çözümlerin uçuşa geçme fikrini iletmektedir. Derin lacivert ve elektrik mavisi paleti kurumsal otoriteyi teknolojik enerjiyle birleştirir. Kimlik; kırtasiye, sosyal medya şablonları, duyarlı web tasarımı, firma profili dokümantasyonu ve çevresel tabelaya tutarlı biçimde yayılır.",
+        "deliverables": [
+          "Logo ve Marka İşareti",
+          "Renk ve Tipografi Sistemi",
+          "Kırtasiye Seti",
+          "Sosyal Medya Şablonları",
+          "Web Sitesi Tasarımı",
+          "Firma Sunumu",
+          "Çevresel Tabela",
+          "Marka Kılavuzu"
+        ],
+        "images": [
+          "/projects/evercraft/evercraft_001.webp",
+          "/projects/evercraft/evercraft_002.webp",
+          "/projects/evercraft/evercraft_003.webp",
+          "/projects/evercraft/evercraft_004.webp",
+          "/projects/evercraft/evercraft_005.webp",
+          "/projects/evercraft/evercraft_006.webp"
+        ]
+      },
+      {
+        "category": "Marka Kimliği · Denizcilik Hizmetleri · Kurumsal Kimlik",
+        "title": "cata",
+        "headline": "CATA Marine Solutions — Marka Kimliği Sistemi",
+        "impact": "Gemi tamir ve denizcilik hizmetleri şirketi için eksiksiz kurumsal marka kimliği — hassasiyet, güvenilirlik ve denizcilik otoritesi üzerine kurulu.",
+        "tools": [
+          "Marka Kimliği",
+          "Kurumsal Kimlik",
+          "Sosyal Medya",
+          "Web Sitesi Tasarımı",
+          "Firma Sunumu"
+        ],
+        "overview": "CATA Marine Solutions; güvenilirlik, hassasiyet ve güç değerleri üzerine inşa edilmiş uzmanlaşmış bir gemi tamir ve denizcilik hizmetleri şirketidir. Proje; temel logo ve kurumsal sistemden sosyal medyaya, profesyonel web sitesine, firma sunumuna ve çevresel markalamaya kadar teknik otoriteyi ve denizcilik uzmanlığını ileten eksiksiz bir marka kimliği sistemi gerektirdi.",
+        "challenge": "Denizcilik mühendisliğinde zorunlu olan hassasiyeti ve güvenilirliği yansıtan bir marka kimliği oluşturmak — güvenin tutarlılık ve kanıtlanmış yetkinlikle kazanıldığı bir sektör. Kimliğin B2B satın alma bağlamlarında yeterince otoriter görünürken dijital platformlarda ulaşılabilir ve modern kalması gerekiyordu.",
+        "solution": "Koyu lacivert paleti kesen turuncu aksanla eşleştirilen, kalın ve özgüvenli tipografide küçük harfli 'cata' sözcük markası. Kurumsal kimlik sistemi; kırtasiye, sosyal medya şablonları, profesyonel web sitesi, kapsamlı firma sunumu ve çevresel tabelaya tutarlı biçimde yayılmaktadır. Araç uygulamaları, markayı sahada hayata geçirerek her temas noktasında varlığı pekiştirmektedir.",
+        "deliverables": [
+          "Logo ve Sözcük Markası",
+          "Kurumsal Kimlik Sistemi",
+          "Kırtasiye Seti",
+          "Sosyal Medya Şablonları",
+          "Web Sitesi Tasarımı",
+          "Firma Sunumu",
+          "Çevresel Markalama",
+          "Araç Markalama"
+        ],
+        "images": [
+          "/projects/cata/cata_001.webp",
+          "/projects/cata/cata_002.webp",
+          "/projects/cata/cata_003.webp",
+          "/projects/cata/cata_004.webp",
+          "/projects/cata/cata_005.webp",
+          "/projects/cata/cata_006.webp"
+        ]
+      },
+      {
+        "category": "Web Uygulaması · Gayrimenkul · UI Tasarımı",
+        "title": "iNeedhome",
+        "headline": "iNeedhome — Gayrimenkul Platformu ve Web Uygulama Tasarımı",
+        "impact": "Eksiksiz bir gayrimenkul platform tasarımı — marka kimliği, UI sistemi, duyarlı web uygulaması ve mülk arama, listeleme ve randevu için tam ürün özellik seti.",
+        "tools": [
+          "Marka Kimliği",
+          "UI/UX Tasarımı",
+          "Web Uygulaması",
+          "Tasarım Sistemi",
+          "Duyarlı Tasarım"
+        ],
+        "overview": "iNeedhome; kullanıcıların Satın Al, Kirala ve Ticari kategorilerinde mülk aramasını, filtrelemesini ve gezinti randevusu almasını sağlayan bir gayrimenkul platformu ve web uygulamasıdır. iNeed ekosisteminin bir alt markası olarak proje; eksiksiz bir marka kimliği sistemi, kapsamlı UI tasarım sistemi ve tam duyarlı web uygulaması gerektirdi — hero aramadan mülk detayına, temsilci iletişimine ve randevu akışına kadar.",
+        "challenge": "Desteklemesi gereken filtre, listeleme türü ve kullanıcı akışı hacmine rağmen sezgisel hissettiren karmaşık bir gayrimenkul platformu tasarlamak. Arayüzün özellik zenginliğini berraklıkla dengelemesi — ilk kez ev arayanları ve deneyimli temsilcileri aynı ürün üzerinden eşit kolaylıkla yönlendirmesi gerekiyordu.",
+        "solution": "Poppins tipografisi ve net üç renkli palet üzerine kurulu, dönüşüm odaklı tasarım sistemi — güven ve navigasyon için mavi, eylem ve aciliyet için kırmızı, vurgu durumları için sarı. Bileşen kütüphanesi tüm platform yüzeylerini kapsar: arama, listeleme gridleri, mülk kartları, etkileşimli haritalar, kullanıcı panosu, temsilci iletişim akışları ve randevu rezervasyonu. Duyarlı sistem 320px mobilden 1440px+ masaüstüne tutarlı biçimde ölçeklenir.",
+        "deliverables": [
+          "Marka Kimliği ve Logo Sistemi",
+          "UI Tasarım Sistemi",
+          "Web Uygulama Tasarımı",
+          "Mülk Arama ve Filtre Arayüzü",
+          "Mülk Listeleme ve Detay Sayfaları",
+          "Etkileşimli Harita Arayüzü",
+          "Kullanıcı Panosu",
+          "Temsilci İletişim Akışı",
+          "Randevu Rezervasyon Sistemi",
+          "Duyarlı Tasarım (5 kırılım noktası)"
+        ],
+        "images": [
+          "/projects/ineedhome/ineedhome_001.webp",
+          "/projects/ineedhome/ineedhome_002.webp",
+          "/projects/ineedhome/ineedhome_003.webp",
+          "/projects/ineedhome/ineedhome_004.webp"
+        ]
+      },
+      {
+        "category": "SaaS · Sosyal Medya Yönetimi · UI/UX Tasarımı",
+        "title": "dreamCloud",
+        "headline": "dreamCloud — Sosyal Medya Yönetim Platformu",
+        "impact": "Eksiksiz bir SaaS ürün tasarımı — marka kimliği, UI tasarım sistemi, dashboard uygulaması ve zamanlama, analitik, yapay zeka araçları ve ekip işbirliğini kapsayan tam özellik ekosistemi.",
+        "tools": [
+          "Marka Kimliği",
+          "SaaS UI Tasarımı",
+          "Tasarım Sistemi",
+          "Dashboard Tasarımı",
+          "Mobil Uygulama"
+        ],
+        "overview": "dreamCloud; markaların ve ekiplerin Instagram, Facebook, Twitter, LinkedIn, TikTok, YouTube, Threads, Pinterest ve Google Business'ta içerik planlamasını, zamanlamasını, analizini ve işbirliğini tek bir dashboard üzerinden yönetmesini sağlayan bir sosyal medya yönetim SaaS platformudur. Proje; eksiksiz bir marka kimliği sistemi ve ürünün her yüzeyini kapsayan kapsamlı bir UI/UX tasarımı gerektirdi.",
+        "challenge": "Çok platformlu sosyal medya operasyonlarının karmaşıklığını kullanıcıları bunaltmadan yöneten özellik açısından zengin bir SaaS dashboard tasarlamak. Platform; basit gönderi zamanlamasından yapay zeka destekli içerik oluşturmaya, kampanya yönetimine ve performans analitiğine kadar ölçeklenebilen bir UI mimarisiyle hem solo yaratıcılara hem de kurumsal ekiplere hizmet etmek zorundaydı.",
+        "solution": "Poppins üzerine kurulu, sezgisel ancak profesyonel görünen, zekâyı ve yaratıcılığı simgeleyen mor-mavi gradyan marka dili. Ürün arayüzü; karmaşık işlevleri net kenar çubuğu navigasyonu, modüler widget sistemi ve bağlamsal paneller aracılığıyla düzenler. Temel yüzeyler: analitik dashboard, içerik takvimi, yapay zeka altyazı üreticisi, sosyal gelen kutusu, gönderi zamanlayıcı, ekip işbirliği, onay akışı, kampanya yönetimi ve performans raporlaması — 390px'den 1440px+'a tam duyarlı.",
+        "deliverables": [
+          "Logo ve Marka Kimliği",
+          "Uygulama İkonu Sistemi (1024px — 16px)",
+          "Renk Sistemi ve Tasarım Tokenları",
+          "Tipografi ve İkon Sistemi",
+          "Dashboard UI Tasarımı",
+          "İçerik Takvimi",
+          "Gönderi Zamanlayıcı",
+          "Yapay Zeka Altyazı Üreticisi",
+          "Sosyal Gelen Kutusu",
+          "Ekip İşbirliği ve Onay Akışı",
+          "Kampanya Yönetimi",
+          "Performans Analitiği",
+          "Duyarlı Tasarım (4 kırılım noktası)",
+          "Karanlık Mod"
+        ],
+        "images": [
+          "/projects/dreamcloud/dreamcloud_001.webp",
+          "/projects/dreamcloud/dreamcloud_002.webp",
+          "/projects/dreamcloud/dreamcloud_003.webp",
+          "/projects/dreamcloud/dreamcloud_004.webp"
+        ]
+      },
+      {
+        "category": "YouTube Ekosistemi · Marka Kimliği · İçerik Üretimi",
+        "title": "Beyond Midnight Waves",
+        "headline": "Beyond Midnight Waves — YouTube Ambient Müzik Ekosistemi",
+        "impact": "Sıfırdan kurulmuş eksiksiz bir YouTube kanal ekosistemi — marka kimliği, içerik mimarisi, müzik prodüksiyon yönlendirmesi, albüm kapağı sistemi, küçük resim tasarım sistemi ve 1,05 milyar+ toplam aboneye ulaşan ambient müzik kanalı için tam görsel dil.",
+        "tools": [
+          "Marka Kimliği",
+          "YouTube Stratejisi",
+          "Küçük Resim Tasarımı",
+          "İçerik Sistemi",
+          "Albüm Kapağı"
+        ],
+        "overview": "Beyond Midnight Waves; odak, dinlenme ve derin uyku odaklı ses manzaraları, meditasyon müziği, piyano eserleri ve doğa seslerini barındıran bir ambient müzik YouTube kanalıdır. Proje; marka kimliği ve görsel dil, YouTube kanal tasarımı, playlist ve içerik mimarisi, müzik prodüksiyon yönlendirmesi, 10'dan fazla sürüm için albüm kapağı, kapsamlı küçük resim tasarım sistemi ve Spotify, Apple Music ile YouTube Music'te dağıtımı kapsayan eksiksiz yaratıcı ekosistemi içermektedir.",
+        "challenge": "Algoritma odaklı küçük resimlerle dolu bir platformda öne çıkan, özgün ve atmosferik bir görsel kimlik oluşturmak. Kimliğin her yüzeyde sürükleyici ve premium hissettirmesi gerekiyordu: kanal banner'ı, video küçük resimleri, albüm kapakları, yayın platformu profilleri, CD ambalajı ve sosyal medya. 170'den fazla video üreten bir içerik sistemi için tüm bunların ölçeklenebilir olması zorunluydu.",
+        "solution": "Kuzey ışıkları, gece manzaraları ve atmosferik ışığa dayanan derin uzay görsel dili. 'bg' harfişareti, iki baş harfi hem dalga sembolü hem de başlangıç harfleri olarak eşit oranda okunabilen akışkan, organik bir işarete dönüştürür. Palet, neredeyse siyah laciverten derin mora, elektrik mavisine ve yumuşak lavandere uzanan 7 adımlı gradyan sistemi — Sleep, Meditation, Focus, Nature, Piano ve Rain içerik kategorilerini ruh haline göre kodlar. Küçük resim sistemi; tutarlı kompozisyon kuralları, ruh haline göre renk sıcaklığı ve 30'dan fazla ikon kütüphanesi kullanır.",
+        "deliverables": [
+          "Logo ve Marka İşareti",
+          "Uygulama İkonu ve Kanal İkonu Sistemi",
+          "Renk Paleti ve Gradyan Sistemi",
+          "Tipografi Sistemi (Poppins + Cinzel)",
+          "İkon Kütüphanesi (30'dan fazla ikon)",
+          "Görsel Unsurlar ve Marka Desenleri",
+          "YouTube Kanal Tasarımı ve Banner",
+          "Playlist Mimarisi (6 kategori · 80'den fazla playlist)",
+          "Albüm Kapağı (10'dan fazla sürüm)",
+          "CD ve Vinil Ambalajı",
+          "Yayın Platformu Varlıkları",
+          "Küçük Resim Tasarım Sistemi (15'ten fazla kategori)",
+          "A/B Küçük Resim Varyantları",
+          "Mevsimlik İçerik Koleksiyonları"
+        ],
+        "images": [
+          "/projects/beyondmidnightwaves/bmw_001.webp",
+          "/projects/beyondmidnightwaves/bmw_002.webp",
+          "/projects/beyondmidnightwaves/bmw_003.webp",
+          "/projects/beyondmidnightwaves/bmw_004.webp",
+          "/projects/beyondmidnightwaves/bmw_005.webp"
+        ]
+      },
+      {
+        "category": "YouTube Ekosistemi · Çocuk Eğlencesi · Karakter Tasarımı",
+        "title": "Mini Melody Song",
+        "headline": "Mini Melody Song — Çocuk YouTube Kanal Ekosistemi",
+        "impact": "Eksiksiz bir çocuk YouTube kanal yaratıcı ekosistemi — marka kimliği, 10 karakterlik 3D evren, kanal tasarımı, küçük resim sistemi, video üretim çerçevesi ve 2,37 milyon aboneli çocuk müziği kanalı için tam ürün serisi.",
+        "tools": [
+          "Marka Kimliği",
+          "Karakter Tasarımı",
+          "YouTube Stratejisi",
+          "Küçük Resim Tasarımı",
+          "Ürün Tasarımı"
+        ],
+        "overview": "Mini Melody Song; küçük çocuklar için eğlenceli, eğitici ve müzikal video içerikleri üreten bir çocuk ve aile eğlencesi YouTube kanalıdır. Proje; özgün bir marka kimliği, 10 karakterlik 3D hayvan evreni, YouTube kanal tasarımı, küçük resim ve içerik sistemi, video üretim çerçevesi ile oyuncak, giyim, kırtasiye, parti malzemeleri ve mobil uygulamayı kapsayan kapsamlı bir ürün serisinden oluşan eksiksiz yaratıcı ekosistemi sıfırdan inşa etti.",
+        "challenge": "Aynı anda neşeli ve güvenli, eğitici ve eğlendirici, küçük resim ölçeğinde tanınabilir ve yüzlerce videoya ölçeklenebilir bir çocuk markası oluşturmak. Karakter ifadelerinden küçük resim kompozisyonuna kadar her unsurun çocukları mutlu ederken ebeveynlerin güvenini de kazanması ve büyük hacimli üretimde bir prodüksiyon ekibi tarafından tekrarlanabilir olması gerekiyordu.",
+        "solution": "Pembe ve sarı-turuncu gradyanlı kalın, yuvarlak sözcük markası; canlı 6 renkli palet ve Baloo 2 tipografisiyle eşleştirildi. Her biri kendine özgü kişilik, ifade, aksiyon ve pozlara sahip 10 orijinal 3D hayvan karakteri markanın kalbini oluşturur. 4 şablon, A/B varyantları ve kategori renk kodlamasına sahip yapılandırılmış küçük resim sistemi ölçekte yüksek CTR üretimini mümkün kılar. İçerik mimarisi 8 playlist kategorisini, 6 aşamalı video hikaye akışını ve Shorts ekosistemini kapsar. Marka; oyuncak, giyim, çanta, kırtasiye, parti malzemeleri, mobil uygulama ve oda dekorunu kapsayan eksiksiz ürün serisine yayılır.",
+        "deliverables": [
+          "Logo ve Marka Kimliği",
+          "Renk Sistemi ve Tipografi (Baloo 2)",
+          "Marka Unsurları ve Desenleri",
+          "10 Karakterlik 3D Evren",
+          "Karakter İfadeleri ve Aksiyon Pozları",
+          "YouTube Kanal Tasarımı ve Banner",
+          "Playlist Sistemi (8 kategori)",
+          "Küçük Resim Tasarım Sistemi ve Şablonlar",
+          "A/B Küçük Resim Varyantları",
+          "Video Hikaye Akışı ve Sahne Tasarımı",
+          "Shorts İçerik Sistemi",
+          "Albüm Kapağı ve Şarkı Kapakları",
+          "Giriş / Bitiş Ekranları",
+          "Mobil Uygulama Tasarımı",
+          "Ürün Serisi (Giyim · Çanta · Kırtasiye · Oyuncak · Parti)"
+        ],
+        "images": [
+          "/projects/minimelodysong/mms_001.webp",
+          "/projects/minimelodysong/mms_002.webp",
+          "/projects/minimelodysong/mms_003.webp",
+          "/projects/minimelodysong/mms_004.webp",
+          "/projects/minimelodysong/mms_005.webp",
+          "/projects/minimelodysong/mms_006.webp"
+        ]
+      }
+    ]
+  },
+  "process": {
+    "section_label": "Süreç",
+    "title_line1": "Stratejiden",
+    "title_line2": "lansmanına.",
+    "subtitle": "Her projeyi yolunda tutan, belirsizliği gideren net ve yapılandırılmış bir süreç — ilk brief'ten son teslimata kadar.",
+    "phases": [
+      {
+        "name": "Keşif",
+        "duration": "1 – 2 hafta",
+        "desc": "Marka, pazar, kitle ve rekabet ortamına derinlemesine dalış. Hiçbir brief gerçeklikle temastan değişmeden çıkmaz — bu yüzden önce anlamakla başlıyoruz.",
+        "deliverables": [
+          "Marka denetimi",
+          "Rakip araştırması",
+          "Kitle haritalaması",
+          "Stratejik brief"
+        ]
+      },
+      {
+        "name": "Strateji",
+        "duration": "1 – 2 hafta",
+        "desc": "Tek bir piksel yerleştirilmeden önce konumlama, mesajlaşma mimarisi ve yaratıcı yön belirlenir. Strateji, atlanmasının en pahalıya patladığı şeydir.",
+        "deliverables": [
+          "Konumlama çerçevesi",
+          "Mesajlaşma hiyerarşisi",
+          "Yaratıcı yön",
+          "Proje yol haritası"
+        ]
+      },
+      {
+        "name": "Tasarım ve İnşa",
+        "duration": "2 – 6 hafta",
+        "desc": "Strateji görünür, somut çalışmaya dönüşür — müşteriyle her aşamada yakın iş birliği içinde inşa edilir ve brief boyunca değerlendirilir.",
+        "deliverables": [
+          "Konsept araştırması",
+          "Yinelemeli tasarım",
+          "Müşteri geri bildirim döngüleri",
+          "Prodüksiyon dosyaları"
+        ]
+      },
+      {
+        "name": "Lansman ve Optimizasyon",
+        "duration": "Süregelen",
+        "desc": "Teslimat başlangıçtır. Markalar canlı sistemlerdir — çalışmanın performans gösterdiğinden emin olmak için lansman sonrasında da destek, ölçüm ve optimizasyon devam eder.",
+        "deliverables": [
+          "Lansman desteği",
+          "Performans incelemesi",
+          "Yineleme döngüleri",
+          "Büyüme takibi"
+        ]
+      }
+    ]
+  },
+  "contact": {
+    "section_label": "İletişim",
+    "title": "Görmezden gelinmesi imkânsız hissettiren bir marka inşa etmeye hazır mısınız?",
+    "subtitle": "Her güçlü sonuç net bir konuşmayla başlar. Hedeflerinizi anlayalım — sonra yürütmeye değer bir plan kuralım.",
+    "trust": "Türkiye, Almanya ve dünyanın dört bir yanındaki markaların güvencesi — 24 saat içinde yanıt.",
+    "options": [
+      {
+        "label": "E-posta",
+        "value": "ilhncvn@gmail.com",
+        "hint": "En hızlı yanıt"
+      },
+      {
+        "label": "WhatsApp",
+        "value": "Mesaj gönder",
+        "hint": "Doğrudan konuşma"
+      },
+      {
+        "label": "Upwork",
+        "value": "Profili gör ve işe al",
+        "hint": "Doğrulanmış sözleşmeler"
+      }
+    ],
+    "copyright": "© 2025 iç creative · Tüm hakları saklıdır",
+    "fn_ai": "Yapay Zeka Geliştirme",
+    "fn_branding": "Marka Tasarımı",
+    "fn_web": "Web Tasarımı",
+    "fn_content": "İçerik & YouTube",
+    "fn_work": "Seçili Çalışmalar"
+  },
+  "form": {
+    "title": "Markanı birlikte anlayalım.",
+    "subtitle": "Görüşmeden önce işini, hedeflerini ve ihtiyaçlarını daha iyi anlayabilmem için birkaç bilgi paylaş.",
+    "s1_label": "İletişim",
+    "name_label": "Ad Soyad",
+    "name_placeholder": "Adınız ve soyadınız",
+    "company_label": "Şirket / Marka Adı",
+    "company_placeholder": "Şirketinizin veya markanızın adı",
+    "email_label": "E-posta",
+    "email_placeholder": "mail@adresiniz.com",
+    "phone_label": "Telefon / WhatsApp",
+    "phone_placeholder": "+90 (555) 000-0000",
+    "website_label": "Website veya Sosyal Medya",
+    "website_placeholder": "https://markaniz.com veya @kullanici",
+    "location_label": "Ülke / Şehir",
+    "location_placeholder": "örn. İstanbul, Türkiye",
+    "s2_label": "Projeniz",
+    "services_label": "Ne konusunda yardıma ihtiyacınız var?",
+    "services": [
+      "Marka Kimliği",
+      "Logo Tasarımı",
+      "Web Tasarımı",
+      "Sosyal Medya",
+      "YouTube / İçerik Sistemi",
+      "Yapay Zeka Destekli İş Akışı",
+      "Sunum Tasarımı",
+      "Eksiksiz Marka Sistemi",
+      "Diğer"
+    ],
+    "brand_label": "Markanızı anlatın",
+    "brand_placeholder": "İşletmeniz ne yapıyor? Kime hizmet veriyorsunuz? Markanızı farklı kılan ne?",
+    "s3_label": "Proje Detayları",
+    "goal_label": "Ana Hedef",
+    "goal_placeholder": "Ana hedefinizi seçin",
+    "goals": [
+      "Yeni bir marka kurmak",
+      "Mevcut markayı yenilemek",
+      "Website oluşturmak",
+      "Sosyal medya varlığını güçlendirmek",
+      "YouTube / içerik büyümesi",
+      "Daha güçlü profesyonel bir imaj yaratmak",
+      "Satışları / potansiyel müşterileri artırmak",
+      "Henüz emin değilim"
+    ],
+    "budget_label": "Proje Bütçesi",
+    "budget_placeholder": "Bütçe aralığı seçin",
+    "budgets": [
+      "$500 altı",
+      "$500 – $1.500",
+      "$1.500 – $3.000",
+      "$3.000 – $5.000",
+      "$5.000+",
+      "Henüz emin değilim"
+    ],
+    "timeline_label": "Zaman Çizelgesi",
+    "timeline_placeholder": "Zaman çizelgesi seçin",
+    "timelines": [
+      "En kısa sürede",
+      "2 hafta içinde",
+      "1 ay içinde",
+      "1–3 ay",
+      "Esnek"
+    ],
+    "s4_label": "Referanslar",
+    "references_label": "Referanslar ve İlham Kaynakları",
+    "references_placeholder": "Mevcut website, Instagram, rakipler veya ilham kaynaklarınızın linklerini buraya yapıştırın.",
+    "success_q_label": "Başarı Kriterleri",
+    "success_q_question": "Bu projeyi sizin için başarılı kılan ne olur?",
+    "success_q_placeholder": "Bu proje için başarının nasıl göründüğünü anlatın...",
+    "submit": "Proje Briefini Gönder",
+    "whatsapp_alt": "WhatsApp tercih ediyor musunuz? Doğrudan iletişime geçin.",
+    "submitting": "Gönderiliyor...",
+    "err_required": "Bu alan zorunludur",
+    "err_contact": "Lütfen e-posta veya WhatsApp numarası girin",
+    "err_email": "Geçerli bir e-posta adresi girin",
+    "err_services": "En az bir hizmet seçin",
+    "done_title": "Teşekkürler.",
+    "done_msg": "Markanızı inceleyeceğim ve en uygun yönlendirmeyle geri döneceğim.",
+    "done_time": "24 saat içinde yanıt bekleyebilirsiniz.",
+    "done_close": "Kapat"
+  }
+}

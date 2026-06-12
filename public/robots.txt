@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Disallow: /src/
+Disallow: /.vite/
+
+# Sitemap
+# IMPORTANT: update domain before deploying
+Sitemap: https://iccreative.studio/sitemap.xml

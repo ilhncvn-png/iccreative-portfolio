@@ -1,0 +1,799 @@
+{
+  "nav": {
+    "experience": "Experience",
+    "services": "Services",
+    "work": "Work",
+    "process": "Process",
+    "contact": "Contact",
+    "cta": "Start a Project"
+  },
+  "hero": {
+    "tag": "Creative Direction · AI Systems · Brand Strategy",
+    "brands_tagline": "Brands · AI · Experiences",
+    "headline": [
+      "Designing",
+      "Brands,",
+      "Systems",
+      "&",
+      "Digital",
+      "Experiences"
+    ],
+    "subline": "I bring 25+ years of creative direction into the AI era — building brand systems, digital experiences, and content ecosystems that think as well as they look.",
+    "cta_primary": "Let's Build Your Brand",
+    "cta_secondary": "View Selected Work",
+    "stat_years_label": "Years",
+    "stat_disciplines_label": "Disciplines",
+    "stat_clients_label": "Clients",
+    "stat_powered_label": "Powered",
+    "scroll": "Scroll",
+    "micro_strategy": "STRATEGY",
+    "micro_branding": "BRANDING",
+    "micro_motion": "MOTION",
+    "micro_web": "WEB",
+    "micro_content": "CONTENT",
+    "micro_ai": "AI"
+  },
+  "experience": {
+    "section_label": "Experience",
+    "title_line1": "25+ Years of",
+    "title_line2": "Creative Direction",
+    "subtitle": "From brand identity to digital systems, from social content to AI-powered workflows — I build complete creative ecosystems for modern brands.",
+    "years_value": "25+",
+    "years_label": "Years",
+    "projects_value": "500+",
+    "projects_label": "Projects",
+    "disciplines_value": "6",
+    "disciplines_label": "Disciplines",
+    "clients_value": "Global",
+    "clients_label": "Clients",
+    "caps_label": "Capabilities",
+    "caps": [
+      {
+        "title": "Brand Strategy",
+        "desc": "Positioning, messaging architecture and go-to-market strategy for modern brands."
+      },
+      {
+        "title": "Identity Systems",
+        "desc": "Visual language, logo systems and brand guidelines built to scale."
+      },
+      {
+        "title": "Web Experiences",
+        "desc": "Design and development for high-converting digital products and platforms."
+      },
+      {
+        "title": "Social Media",
+        "desc": "Content strategy, visual systems and community growth across platforms."
+      },
+      {
+        "title": "YouTube Ecosystems",
+        "desc": "Channel strategy, production design and growth frameworks for video brands."
+      },
+      {
+        "title": "AI Workflows",
+        "desc": "Custom AI-powered pipelines for content, design and brand automation."
+      },
+      {
+        "title": "Motion Design",
+        "desc": "Brand motion, UI animation and cinematic storytelling for digital presence."
+      },
+      {
+        "title": "Creative Direction",
+        "desc": "End-to-end creative leadership — from initial concept through final launch."
+      }
+    ]
+  },
+  "services": {
+    "section_label": "Services",
+    "title": "Every capability under one creative practice.",
+    "subtitle": "From brand identity to AI-powered systems, from web design to YouTube growth — a full-service creative practice built for modern brands.",
+    "items": [
+      {
+        "title": "Branding",
+        "value": "Identity that owns its space.",
+        "caps": [
+          "Brand strategy & positioning",
+          "Visual identity systems",
+          "Brand architecture & guidelines"
+        ]
+      },
+      {
+        "title": "Web Design",
+        "value": "Digital presence that converts.",
+        "caps": [
+          "UX strategy & information architecture",
+          "High-converting UI design",
+          "React frontend development"
+        ]
+      },
+      {
+        "title": "AI Development",
+        "value": "Creative production at scale.",
+        "caps": [
+          "Custom LLM & automation pipelines",
+          "Content generation systems",
+          "Brand AI integration & training"
+        ]
+      },
+      {
+        "title": "Social Media",
+        "value": "Presence that compounds daily.",
+        "caps": [
+          "Content strategy & visual systems",
+          "Template libraries for every platform",
+          "Platform-specific creative direction"
+        ]
+      },
+      {
+        "title": "YouTube Growth",
+        "value": "Audience infrastructure, built to last.",
+        "caps": [
+          "Channel strategy & SEO architecture",
+          "Thumbnail, title & hook systems",
+          "Publishing workflows & growth tracking"
+        ]
+      },
+      {
+        "title": "Motion & Video",
+        "value": "Stories that move people.",
+        "caps": [
+          "Brand motion design & UI animation",
+          "Video creative direction",
+          "Short-form & long-form production"
+        ]
+      }
+    ]
+  },
+  "ai": {
+    "section_label": "AI Development",
+    "title_line1": "AI that thinks like a",
+    "title_line2": "creative director.",
+    "benefits": [
+      {
+        "title": "Speed without sacrifice",
+        "desc": "AI workflows produce on-brand output at scale — without losing creative control or tonal accuracy."
+      },
+      {
+        "title": "Custom, not off-the-shelf",
+        "desc": "Every system is built around a specific brand voice, visual language and audience context."
+      },
+      {
+        "title": "Built to compound",
+        "desc": "Pipelines and automations that get smarter and more efficient with every iteration."
+      }
+    ],
+    "stack_label": "Capability Index",
+    "stack": [
+      {
+        "label": "Claude Code & AI CLI",
+        "cat": "Automation"
+      },
+      {
+        "label": "Custom LLM Pipelines",
+        "cat": "Architecture"
+      },
+      {
+        "label": "Brand Voice Training",
+        "cat": "Fine-tuning"
+      },
+      {
+        "label": "Content Generation Systems",
+        "cat": "Production"
+      },
+      {
+        "label": "AI-Assisted Design Workflows",
+        "cat": "Creative"
+      },
+      {
+        "label": "Prompt Architecture",
+        "cat": "Strategy"
+      },
+      {
+        "label": "Automation Scripting",
+        "cat": "Backend"
+      },
+      {
+        "label": "Visual AI Integration",
+        "cat": "Design"
+      }
+    ]
+  },
+  "branding": {
+    "section_label": "Branding",
+    "title_line1": "Brand thinking",
+    "title_line2": "at every scale.",
+    "subtitle": "A brand is more than a logo — it is the total perception people have of a business. Every element, from positioning to copy, shapes that perception.",
+    "pillars": [
+      {
+        "word": "POSITIONING",
+        "title": "Where the brand wins",
+        "desc": "Defining the space the brand owns in the market — and building a case for why it belongs there."
+      },
+      {
+        "word": "IDENTITY",
+        "title": "The visual language",
+        "desc": "Logo systems, type, colour, iconography and motion — a complete design language that scales."
+      },
+      {
+        "word": "ARCHITECTURE",
+        "title": "Structure at scale",
+        "desc": "Hierarchy, relationships and naming systems for brands that operate across multiple products or markets."
+      },
+      {
+        "word": "MESSAGING",
+        "title": "Words that resonate",
+        "desc": "Naming, taglines, tone of voice and messaging frameworks that are distinctive and sticky."
+      }
+    ],
+    "quote": "\"Brands that think clearly, present confidently.\"",
+    "quote_author": "— İlhan Çevn"
+  },
+  "web": {
+    "section_label": "Web Design",
+    "title_line1": "Design that",
+    "title_line2": "converts.",
+    "subtitle": "Premium digital experiences built from first principles — where every decision from layout to loading speed serves the end result.",
+    "features": [
+      {
+        "title": "UX Strategy",
+        "desc": "User journeys, information architecture and conversion logic before a single visual element is placed."
+      },
+      {
+        "title": "Visual Design",
+        "desc": "Interface systems built on strong typographic rhythm, intentional colour and precise spacing."
+      },
+      {
+        "title": "Frontend Development",
+        "desc": "React-powered builds with smooth animation, accessible markup and performance-first architecture."
+      },
+      {
+        "title": "Conversion Optimisation",
+        "desc": "Every CTA, layout and copy decision made with the intended action in mind."
+      },
+      {
+        "title": "Performance Engineering",
+        "desc": "Core Web Vitals, lazy loading and optimised assets — because speed is a feature."
+      }
+    ]
+  },
+  "content": {
+    "section_label": "Content & YouTube",
+    "title_line1": "Content that builds",
+    "title_line2": "audiences. Systems",
+    "title_line3": "that scale it.",
+    "subtitle": "Content ecosystems are more than posting schedules. From channel architecture and AI-powered production through to audience growth strategy — built to compound.",
+    "outcomes": [
+      {
+        "label": "Strategy",
+        "desc": "Direction"
+      },
+      {
+        "label": "Systems",
+        "desc": "Scale"
+      },
+      {
+        "label": "Production",
+        "desc": "Quality"
+      },
+      {
+        "label": "Growth",
+        "desc": "Compound"
+      }
+    ],
+    "platforms": [
+      {
+        "name": "YouTube",
+        "role": "Primary Channel"
+      },
+      {
+        "name": "Instagram",
+        "role": "Visual Brand"
+      },
+      {
+        "name": "LinkedIn",
+        "role": "Thought Leadership"
+      },
+      {
+        "name": "TikTok",
+        "role": "Short-form"
+      },
+      {
+        "name": "Behance",
+        "role": "Portfolio"
+      }
+    ],
+    "caps": [
+      {
+        "title": "Channel Strategy",
+        "desc": "Topic architecture, content pillars and growth roadmaps for YouTube channels at any stage."
+      },
+      {
+        "title": "Content Architecture",
+        "desc": "Editorial frameworks and publishing systems that keep content consistent and scalable."
+      },
+      {
+        "title": "AI Music & Video Production",
+        "desc": "AI-powered production pipelines for music visualisers, lyric videos and automated content."
+      },
+      {
+        "title": "Shorts & Reels Systems",
+        "desc": "Short-form content frameworks with hook structures, caption templates and publishing cadence."
+      },
+      {
+        "title": "Thumbnail & Title Direction",
+        "desc": "Click-through-optimised visual and copy systems tested against channel benchmarks."
+      },
+      {
+        "title": "Audience Growth Architecture",
+        "desc": "SEO, community triggers and algorithm-aware strategies for compound audience growth."
+      }
+    ]
+  },
+  "work": {
+    "section_label": "Selected Work",
+    "title_line1": "Work that",
+    "title_line2": "earns trust.",
+    "subtitle": "A selection of brand, digital and content projects. Full case studies are available on request.",
+    "case_study_cta": "Case study on request →",
+    "visual_coming": "Visual Coming",
+    "projects": [
+      {
+        "category": "Brand Identity · App Design · Visual Identity",
+        "title": "iNeed",
+        "headline": "On-Demand Service Brand & Visual Identity",
+        "impact": "A complete brand identity system for a multi-service on-demand platform — logo, app icon, visual language and sub-brand architecture across iNeed, iNeedhome and iNeedCar.",
+        "tools": [
+          "Brand Identity",
+          "Logo Design",
+          "App Icon",
+          "Visual Identity",
+          "Brand Architecture"
+        ],
+        "overview": "iNeed is a multi-service on-demand platform connecting users with delivery, home services and transportation. The project required a complete brand identity system — from the primary wordmark and app icon through to a structured sub-brand architecture covering three distinct service lines.",
+        "challenge": "Building a unified identity flexible enough to support three distinct service categories — each with its own colour and character — while maintaining instant recognition as a single platform. The mark needed to perform at app icon scale and on outdoor advertising equally.",
+        "solution": "A custom iNeed wordmark with a distinctive arrow-integrated N letterform that communicates direction and delivery at a glance. A rounded-square app icon carries the N mark across all digital surfaces. The sub-brand architecture uses colour as the primary differentiator: electric blue for iNeed, red for iNeedhome, yellow for iNeedCar — unified by a shared typographic and iconographic system.",
+        "deliverables": [
+          "Logo & Wordmark",
+          "App Icon System",
+          "Color System",
+          "Sub-brand Architecture",
+          "Visual Identity Guidelines",
+          "Packaging & Merchandise",
+          "Mobile App UI Direction",
+          "Outdoor Advertising",
+          "Brand Presentations"
+        ],
+        "images": [
+          "/projects/ineed/ineed_001.webp",
+          "/projects/ineed/ineed_002.jpg",
+          "/projects/ineed/ineed_003.jpg",
+          "/projects/ineed/ineed_004.jpg",
+          "/projects/ineed/ineed_005.jpg",
+          "/projects/ineed/ineed_006.jpg",
+          "/projects/ineed/ineed_007.jpg"
+        ]
+      },
+      {
+        "category": "Brand Identity · App Design · Mobile UI",
+        "title": "chargenest",
+        "headline": "EV Charging Platform Brand & App Design",
+        "impact": "A complete brand identity and app design system for a sustainable urban mobility startup — from logo and app icon through industrial design concepts and outdoor advertising.",
+        "tools": [
+          "Brand Identity",
+          "Logo Design",
+          "App Icon",
+          "Mobile UI",
+          "Industrial Design"
+        ],
+        "overview": "chargenest is a technology platform for sustainable urban mobility, enabling EV drivers to find, book and use charging stations through a dedicated mobile application. The project required a complete creative system — from brand mark and identity through to mobile app UI, industrial design exploration and outdoor advertising.",
+        "challenge": "Building a brand that communicates reliability and forward-thinking innovation for an emerging market — EV charging — without feeling technical or intimidating. The identity needed to work simultaneously across a mobile app, physical charger hardware and outdoor advertising at street scale.",
+        "solution": "A custom C emblem fusing the letter C with an electric plug form — simple, memorable and instantly readable at any size. The bright mint green signals energy, sustainability and forward motion. The rounded wordmark keeps the brand approachable while the overall system maintains authority. Industrial design sketches explored 20+ charger form factors, while the mobile UI was crafted for fast, confident slot booking.",
+        "deliverables": [
+          "Logo & Brand Mark",
+          "App Icon System",
+          "Color & Typography System",
+          "Mobile App UI Design",
+          "Industrial Design Concepts",
+          "Advertising Materials",
+          "Outdoor Advertising",
+          "App Splash Screen"
+        ],
+        "images": [
+          "/projects/chargenest/chargenest_001.webp",
+          "/projects/chargenest/chargenest_002.jpg",
+          "/projects/chargenest/chargenest_003.jpg",
+          "/projects/chargenest/chargenest_004.jpg",
+          "/projects/chargenest/chargenest_005.jpg",
+          "/projects/chargenest/chargenest_006.jpg",
+          "/projects/chargenest/chargenest_007.jpg",
+          "/projects/chargenest/chargenest_008.jpg",
+          "/projects/chargenest/chargenest_009.jpg",
+          "/projects/chargenest/chargenest_010.jpg",
+          "/projects/chargenest/chargenest_011.jpg",
+          "/projects/chargenest/chargenest_012.jpg"
+        ]
+      },
+      {
+        "category": "Brand Identity · Web Design · Corporate Identity",
+        "title": "EverCraft",
+        "headline": "IT Solutions Brand Identity & Corporate Design System",
+        "impact": "A complete corporate identity system for a technology solutions company — logo, stationery, social media templates, website design, company profile and environmental signage.",
+        "tools": [
+          "Brand Identity",
+          "Logo Design",
+          "Web Design",
+          "Social Media",
+          "Company Profile"
+        ],
+        "overview": "EverCraft Solution is a technology company established in 2011, focused on delivering innovative, reliable and scalable IT solutions across consulting, software development, system integration and ongoing support. The project called for a complete corporate identity system communicating authority, trust and forward-thinking capability across every touchpoint — from business card to billboard.",
+        "challenge": "Building a brand identity that feels established and trustworthy while remaining modern and forward-looking. The system needed to unify a complex multi-service offering under a single visual language that scales consistently across print, digital and environmental applications.",
+        "solution": "A geometric origami bird mark — constructed from precise polygonal facets — communicates precision, intelligence and the concept of solutions taking flight. The deep navy and electric blue palette signals corporate authority with technological energy. The identity extends cohesively across stationery, social media templates, responsive web design, company profile documentation and environmental signage.",
+        "deliverables": [
+          "Logo & Brand Mark",
+          "Color & Typography System",
+          "Stationery Suite",
+          "Social Media Templates",
+          "Website Design",
+          "Company Profile",
+          "Environmental Signage",
+          "Brand Guidelines"
+        ],
+        "images": [
+          "/projects/evercraft/evercraft_001.webp",
+          "/projects/evercraft/evercraft_002.webp",
+          "/projects/evercraft/evercraft_003.webp",
+          "/projects/evercraft/evercraft_004.webp",
+          "/projects/evercraft/evercraft_005.webp",
+          "/projects/evercraft/evercraft_006.webp"
+        ]
+      },
+      {
+        "category": "Brand Identity · Marine Services · Corporate Identity",
+        "title": "cata",
+        "headline": "CATA Marine Solutions — Brand Identity System",
+        "impact": "A complete corporate brand identity for a ship repair and marine services company — built on precision, reliability and maritime authority.",
+        "tools": [
+          "Brand Identity",
+          "Corporate Identity",
+          "Social Media",
+          "Website Design",
+          "Company Profile"
+        ],
+        "overview": "CATA Marine Solutions is a specialized ship repair and marine services company built on the values of reliability, precision and power. The project called for a complete brand identity system communicating technical authority and maritime expertise — from the foundational logo and corporate system through social media, a professional website, company profile and environmental branding.",
+        "challenge": "Creating a brand identity that conveys the precision and reliability demanded in marine engineering — an industry where trust is earned through consistency and proven capability. The identity needed to feel authoritative enough for B2B procurement contexts while remaining approachable and modern across digital platforms.",
+        "solution": "A strong wordmark anchored by the lowercase 'cata' in bold, confident typography — paired with a marine orange accent that cuts through the deep navy palette. The corporate identity system extends cohesively across stationery, social media templates, a professional website, comprehensive company profile and environmental signage. Vehicle applications bring the brand to life in the field, reinforcing presence at every touchpoint.",
+        "deliverables": [
+          "Logo & Wordmark",
+          "Corporate Identity System",
+          "Stationery Suite",
+          "Social Media Templates",
+          "Website Design",
+          "Company Profile",
+          "Environmental Branding",
+          "Vehicle Branding"
+        ],
+        "images": [
+          "/projects/cata/cata_001.webp",
+          "/projects/cata/cata_002.webp",
+          "/projects/cata/cata_003.webp",
+          "/projects/cata/cata_004.webp",
+          "/projects/cata/cata_005.webp",
+          "/projects/cata/cata_006.webp"
+        ]
+      },
+      {
+        "category": "Web App · Real Estate · UI Design",
+        "title": "iNeedhome",
+        "headline": "iNeedhome — Real Estate Platform & Web App Design",
+        "impact": "A complete real estate platform design — brand identity, UI system, responsive web application and full product feature set for property search, listing and booking.",
+        "tools": [
+          "Brand Identity",
+          "UI/UX Design",
+          "Web App",
+          "Design System",
+          "Responsive Design"
+        ],
+        "overview": "iNeedhome is a real estate platform and web application enabling users to search, filter and book property viewings across Buy, Rent and Commercial categories. As a sub-brand of the iNeed ecosystem, the project required a complete brand identity system, comprehensive UI design system and a fully responsive web application — from hero search to property detail, agent contact and appointment booking flows.",
+        "challenge": "Designing a complex real estate platform that feels intuitive despite the volume of filters, listing types and user flows it must support. The interface needed to balance feature richness with clarity — guiding first-time buyers and experienced agents alike through the same product with equal ease.",
+        "solution": "A clean, conversion-focused design system built on Poppins typography and a clear three-colour palette — blue for trust and navigation, red for action and urgency, yellow for accent states. The component library covers all platform surfaces: search, listing grids, property cards, interactive maps, user dashboard, agent contact flows and appointment booking. The responsive system scales consistently from 320px mobile to 1440px+ desktop.",
+        "deliverables": [
+          "Brand Identity & Logo System",
+          "UI Design System",
+          "Web App Design",
+          "Property Search & Filter UI",
+          "Property Listing & Detail Pages",
+          "Interactive Map Interface",
+          "User Dashboard",
+          "Agent Contact Flow",
+          "Appointment Booking System",
+          "Responsive Design (5 breakpoints)"
+        ],
+        "images": [
+          "/projects/ineedhome/ineedhome_001.webp",
+          "/projects/ineedhome/ineedhome_002.webp",
+          "/projects/ineedhome/ineedhome_003.webp",
+          "/projects/ineedhome/ineedhome_004.webp"
+        ]
+      },
+      {
+        "category": "SaaS · Social Media Management · UI/UX Design",
+        "title": "dreamCloud",
+        "headline": "dreamCloud — Social Media Management Platform",
+        "impact": "A complete SaaS product design for a social media management platform — brand identity, UI design system, dashboard application and full feature ecosystem across scheduling, analytics, AI tools and team collaboration.",
+        "tools": [
+          "Brand Identity",
+          "SaaS UI Design",
+          "Design System",
+          "Dashboard Design",
+          "Mobile App"
+        ],
+        "overview": "dreamCloud is a social media management SaaS platform enabling brands and teams to plan, schedule, analyse and collaborate on content across Instagram, Facebook, Twitter, LinkedIn, TikTok, YouTube, Threads, Pinterest and Google Business — all from a single dashboard. The project required a complete brand identity system and a comprehensive UI/UX design covering every surface of the product.",
+        "challenge": "Designing a feature-rich SaaS dashboard that manages the complexity of multi-platform social media operations without overwhelming users. The platform needed to serve both solo creators and enterprise teams — with a UI architecture that scales gracefully from simple post scheduling to AI-assisted content creation, campaign management and performance analytics.",
+        "solution": "A clean purple-to-blue gradient brand language built on Poppins — approachable yet professional, signalling intelligence and creativity. The product UI organises complex functionality through a clear sidebar navigation, modular widget system and contextual panels. Key surfaces include: an analytics dashboard, content calendar, AI caption generator, social inbox, post scheduler, team collaboration, approval workflow, campaign management and performance reporting — all responsive from 390px to 1440px+.",
+        "deliverables": [
+          "Logo & Brand Identity",
+          "App Icon System (1024px — 16px)",
+          "Color System & Design Tokens",
+          "Typography & Icon System",
+          "Dashboard UI Design",
+          "Content Calendar",
+          "Post Scheduler",
+          "AI Caption Generator",
+          "Social Inbox",
+          "Team Collaboration & Approval Flow",
+          "Campaign Management",
+          "Performance Analytics",
+          "Responsive Design (4 breakpoints)",
+          "Dark Mode"
+        ],
+        "images": [
+          "/projects/dreamcloud/dreamcloud_001.webp",
+          "/projects/dreamcloud/dreamcloud_002.webp",
+          "/projects/dreamcloud/dreamcloud_003.webp",
+          "/projects/dreamcloud/dreamcloud_004.webp"
+        ]
+      },
+      {
+        "category": "YouTube Ecosystem · Brand Identity · Content Production",
+        "title": "Beyond Midnight Waves",
+        "headline": "Beyond Midnight Waves — YouTube Ambient Music Ecosystem",
+        "impact": "A complete YouTube channel ecosystem built from scratch — brand identity, content architecture, music production direction, album art system, thumbnail design system and full visual language for an ambient music channel with 1.05B+ total subscribers.",
+        "tools": [
+          "Brand Identity",
+          "YouTube Strategy",
+          "Thumbnail Design",
+          "Content System",
+          "Album Art"
+        ],
+        "overview": "Beyond Midnight Waves is an ambient music YouTube channel built around focus, relaxation and deep sleep — featuring soundscapes, meditation music, piano pieces and nature sounds. The project covered the complete creative ecosystem: brand identity and visual language, YouTube channel design, playlist and content architecture, music production direction, album art for 10+ releases, a comprehensive thumbnail design system, and distribution across Spotify, Apple Music and YouTube Music.",
+        "challenge": "Building a distinct, atmospheric visual identity for a saturated niche — ambient YouTube — that stands out on a platform dominated by algorithmic thumbnails. The identity needed to feel immersive and premium across every surface: channel banner, video thumbnails, album covers, streaming platform profiles, CD packaging and social media. All at scale, for a content system producing 170+ videos.",
+        "solution": "A deep-space visual language grounded in aurora borealis, nocturnal landscapes and atmospheric light. The 'bg' lettermark fuses two initials into a flowing, organic mark that reads equally as a wave symbol. The palette runs from near-black navy through deep purple to electric blue and soft lavender — a 7-step gradient system that mood-codes content categories: Sleep, Meditation, Focus, Nature, Piano and Rain. The thumbnail system uses consistent compositional rules, mood-coded colour temperature and a 30+ icon library — enabling rapid production at series scale.",
+        "deliverables": [
+          "Logo & Brand Mark",
+          "App Icon & Channel Icon System",
+          "Color Palette & Gradient System",
+          "Typography System (Poppins + Cinzel)",
+          "Icon Library (30+ icons)",
+          "Visual Elements & Brand Patterns",
+          "YouTube Channel Design & Banner",
+          "Playlist Architecture (6 categories · 80+ playlists)",
+          "Album Art (10+ releases)",
+          "CD & Vinyl Packaging",
+          "Streaming Platform Assets",
+          "Thumbnail Design System (15+ categories)",
+          "A/B Thumbnail Variants",
+          "Seasonal Content Collections"
+        ],
+        "images": [
+          "/projects/beyondmidnightwaves/bmw_001.webp",
+          "/projects/beyondmidnightwaves/bmw_002.webp",
+          "/projects/beyondmidnightwaves/bmw_003.webp",
+          "/projects/beyondmidnightwaves/bmw_004.webp",
+          "/projects/beyondmidnightwaves/bmw_005.webp"
+        ]
+      },
+      {
+        "category": "YouTube Ecosystem · Kids Entertainment · Character Design",
+        "title": "Mini Melody Song",
+        "headline": "Mini Melody Song — Kids YouTube Channel Ecosystem",
+        "impact": "A complete kids YouTube channel creative ecosystem — brand identity, 10-character 3D universe, channel design, thumbnail system, video production framework and full merchandise line for a 2.37M subscriber children's music channel.",
+        "tools": [
+          "Brand Identity",
+          "Character Design",
+          "YouTube Strategy",
+          "Thumbnail Design",
+          "Merchandise Design"
+        ],
+        "overview": "Mini Melody Song is a kids and family entertainment YouTube channel producing fun, educational and musical video content for young children. The project built a complete creative ecosystem from the ground up — a distinctive brand identity, a 10-character 3D animal universe, YouTube channel design, thumbnail and content system, video production framework, and an extensive merchandise line covering toys, apparel, stationery, party supplies and a mobile app.",
+        "challenge": "Creating a kids brand that is simultaneously joyful and safe, educational and entertaining, recognisable at thumbnail scale and scalable across hundreds of videos. Every element, from character expressions to thumbnail composition, had to delight children while earning trust from parents — and remain replicable by a production team at high volume.",
+        "solution": "A bold, rounded wordmark in complementary gradient colour — pink and yellow-orange — paired with a bright 6-colour palette and Baloo 2 typography. Ten original 3D animal characters — each with distinct personality, expressions, actions and poses — form the heart of the brand. A structured thumbnail system with 4 templates, A/B variants and category colour coding enables high-CTR production at scale. The content architecture spans 8 playlist categories, a 6-stage video story flow and a Shorts ecosystem. The brand extends across a full merchandise line: toys, clothing, bags, stationery, party supplies, mobile app and room decor.",
+        "deliverables": [
+          "Logo & Brand Identity",
+          "Color System & Typography (Baloo 2)",
+          "Brand Elements & Patterns",
+          "10-Character 3D Universe",
+          "Character Expressions & Action Poses",
+          "YouTube Channel Design & Banner",
+          "Playlist System (8 categories)",
+          "Thumbnail Design System & Templates",
+          "A/B Thumbnail Variants",
+          "Video Story Flow & Scene Design",
+          "Shorts Content System",
+          "Album Art & Song Covers",
+          "Intro / Outro Screens",
+          "Mobile App Design",
+          "Merchandise Line (Apparel · Bags · Stationery · Toys · Party)"
+        ],
+        "images": [
+          "/projects/minimelodysong/mms_001.webp",
+          "/projects/minimelodysong/mms_002.webp",
+          "/projects/minimelodysong/mms_003.webp",
+          "/projects/minimelodysong/mms_004.webp",
+          "/projects/minimelodysong/mms_005.webp",
+          "/projects/minimelodysong/mms_006.webp"
+        ]
+      }
+    ]
+  },
+  "process": {
+    "section_label": "Process",
+    "title_line1": "From strategy",
+    "title_line2": "to launch.",
+    "subtitle": "A clear, structured process that removes uncertainty and keeps every project on track — from the first brief through final delivery.",
+    "phases": [
+      {
+        "name": "Discovery",
+        "duration": "1 – 2 weeks",
+        "desc": "Deep-dive into the brand, market, audience and competitive landscape. No brief survives contact with reality unchanged — so we start by understanding it.",
+        "deliverables": [
+          "Brand audit",
+          "Competitor research",
+          "Audience mapping",
+          "Strategic brief"
+        ]
+      },
+      {
+        "name": "Strategy",
+        "duration": "1 – 2 weeks",
+        "desc": "Positioning, messaging architecture and creative direction established before a single pixel is placed. Strategy is the most expensive thing to skip.",
+        "deliverables": [
+          "Positioning framework",
+          "Messaging hierarchy",
+          "Creative direction",
+          "Project roadmap"
+        ]
+      },
+      {
+        "name": "Design & Build",
+        "duration": "2 – 6 weeks",
+        "desc": "Strategy turns into visible, tangible work — built in close collaboration with the client at every stage and reviewed against the brief throughout.",
+        "deliverables": [
+          "Concept exploration",
+          "Iterative design",
+          "Client feedback cycles",
+          "Production files"
+        ]
+      },
+      {
+        "name": "Launch & Optimise",
+        "duration": "Ongoing",
+        "desc": "Delivery is the beginning. Brands are living systems — support, measurement and optimisation continue post-launch to ensure the work performs.",
+        "deliverables": [
+          "Launch support",
+          "Performance review",
+          "Iteration cycles",
+          "Growth tracking"
+        ]
+      }
+    ]
+  },
+  "contact": {
+    "section_label": "Contact",
+    "title": "Ready to build a brand that feels impossible to ignore?",
+    "subtitle": "Every strong outcome starts with a clear conversation. Let's understand your goals — then build a plan worth executing.",
+    "trust": "Trusted by brands across Turkey, Germany and beyond — response within 24 hours.",
+    "options": [
+      {
+        "label": "Email",
+        "value": "ilhncvn@gmail.com",
+        "hint": "Fastest response"
+      },
+      {
+        "label": "WhatsApp",
+        "value": "Send a message",
+        "hint": "Direct conversation"
+      },
+      {
+        "label": "Upwork",
+        "value": "View profile & hire",
+        "hint": "Verified contracts"
+      }
+    ],
+    "copyright": "© 2025 iç creative · All rights reserved",
+    "fn_ai": "AI Development",
+    "fn_branding": "Branding",
+    "fn_web": "Web Design",
+    "fn_content": "Content & YouTube",
+    "fn_work": "Selected Work"
+  },
+  "form": {
+    "title": "Let's understand your brand.",
+    "subtitle": "Share a few details so I can review your business, goals and needs before we talk.",
+    "s1_label": "Contact",
+    "name_label": "Full Name",
+    "name_placeholder": "Your full name",
+    "company_label": "Company / Brand Name",
+    "company_placeholder": "Your company or brand name",
+    "email_label": "Email",
+    "email_placeholder": "your@email.com",
+    "phone_label": "Phone / WhatsApp",
+    "phone_placeholder": "+1 (555) 000-0000",
+    "website_label": "Website or Social Media",
+    "website_placeholder": "https://yourbrand.com or @handle",
+    "location_label": "Country / City",
+    "location_placeholder": "e.g. Istanbul, Turkey",
+    "s2_label": "Your Project",
+    "services_label": "What do you need help with?",
+    "services": [
+      "Brand Identity",
+      "Logo Design",
+      "Web Design",
+      "Social Media",
+      "YouTube / Content System",
+      "AI-Powered Workflow",
+      "Presentation Design",
+      "Complete Brand System",
+      "Other"
+    ],
+    "brand_label": "Tell me about your brand",
+    "brand_placeholder": "What does your business do? Who do you serve? What makes your brand different?",
+    "s3_label": "Project Details",
+    "goal_label": "Main Goal",
+    "goal_placeholder": "Select your main goal",
+    "goals": [
+      "Launch a new brand",
+      "Redesign an existing brand",
+      "Build a website",
+      "Improve social media presence",
+      "Grow YouTube / content",
+      "Create a stronger professional image",
+      "Increase sales / leads",
+      "Not sure yet"
+    ],
+    "budget_label": "Project Budget",
+    "budget_placeholder": "Select budget range",
+    "budgets": [
+      "Under $500",
+      "$500 – $1,500",
+      "$1,500 – $3,000",
+      "$3,000 – $5,000",
+      "$5,000+",
+      "Not sure yet"
+    ],
+    "timeline_label": "Timeline",
+    "timeline_placeholder": "Select timeline",
+    "timelines": [
+      "As soon as possible",
+      "Within 2 weeks",
+      "Within 1 month",
+      "1–3 months",
+      "Flexible"
+    ],
+    "s4_label": "References",
+    "references_label": "References & Inspiration",
+    "references_placeholder": "Paste links to your current website, Instagram, competitors or inspiration.",
+    "success_q_label": "Success Criteria",
+    "success_q_question": "What would make this project successful for you?",
+    "success_q_placeholder": "Describe what success looks like for this project...",
+    "submit": "Send Project Brief",
+    "whatsapp_alt": "Prefer WhatsApp? Contact directly.",
+    "submitting": "Sending...",
+    "err_required": "Required field",
+    "err_contact": "Please provide your email or WhatsApp number",
+    "err_email": "Enter a valid email address",
+    "err_services": "Select at least one service",
+    "done_title": "Thank you.",
+    "done_msg": "I'll review your brand and get back to you with the right direction.",
+    "done_time": "Expect a response within 24 hours.",
+    "done_close": "Close"
+  }
+}
