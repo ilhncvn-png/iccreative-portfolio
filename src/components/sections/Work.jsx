@@ -2,6 +2,7 @@ import { useRef, useState } from 'react'
 import { motion, useInView } from 'framer-motion'
 import { useTranslation } from 'react-i18next'
 import { useModal } from '../../context/ModalContext'
+import { assetUrl } from '../../utils/assetPath'
 
 /* ─── Visual-only project props (no translation needed) ─── */
 const PROJECT_VISUAL = [
@@ -42,7 +43,7 @@ function VisualArea({ project, style, visualComingLabel, loading = 'lazy', fetch
       {/* Real cover image */}
       {coverImage && (
         <img
-          src={coverImage}
+          src={assetUrl(coverImage)}
           alt={`${project.title} — portfolio cover image`}
           loading={loading}
           decoding="async"

@@ -1,4 +1,5 @@
 import { useState } from 'react'
+import { assetUrl } from '../../utils/assetPath'
 
 /*
  * LogoMark — İÇ brand monogram (PNG asset, 1536×1024)
@@ -34,7 +35,7 @@ export default function LogoMark({
   if (watermark) {
     return (
       <img
-        src="/logo.webp"
+        src={assetUrl('/logo.webp')}
         alt=""
         aria-hidden
         style={{
@@ -92,7 +93,7 @@ export default function LogoMark({
         }}
       >
         <img
-          src="/logo.webp"
+          src={assetUrl('/logo.webp')}
           alt="İÇ"
           draggable={false}
           style={{

@@ -1,3 +1,5 @@
+import { assetUrl } from '../../utils/assetPath'
+
 /*
  * GlobalAtmosphere — the living intelligence layer.
  *
@@ -173,7 +175,7 @@ export default function GlobalAtmosphere() {
 
       {/* ── Monogram fragment — top right (very faint) ── */}
       <img
-        src="/logo.webp"
+        src={assetUrl('/logo.webp')}
         alt=""
         loading="lazy"
         style={{
@@ -191,7 +193,7 @@ export default function GlobalAtmosphere() {
 
       {/* ── Monogram fragment — bottom left (mirrored, even fainter) ── */}
       <img
-        src="/logo.webp"
+        src={assetUrl('/logo.webp')}
         alt=""
         loading="lazy"
         style={{

@@ -2,6 +2,7 @@ import { useEffect, useRef, useState } from 'react'
 import { createPortal } from 'react-dom'
 import { AnimatePresence, motion } from 'framer-motion'
 import { useModal } from '../../context/ModalContext'
+import { assetUrl } from '../../utils/assetPath'
 
 /* ─────────────────────────────────────────────────────────────
    ART DIRECTION — per-project, per-image presentation config
@@ -553,7 +554,7 @@ function GalleryItem({ src, alt, config, index, delay, accentRgb }) {
    EditorialGallery — orchestrates the full editorial layout
 ─────────────────────────────────────────────────────────────── */
 function EditorialGallery({ project, accentRgb }) {
-  const images    = project.images || []
+  const images    = (project.images || []).map(assetUrl)
   const direction = ART_DIRECTION[project.id]
 
   const getConfig = (i) => direction?.[i] || {
@@ -725,7 +726,7 @@ export default function CaseStudyModal() {
                 >
                   {hasCover && (
                     <img
-                      src={project.images[0]}
+                      src={assetUrl(project.images[0])}
                       alt={`${project.title} — ${project.headline || 'case study cover'}`}
                       loading="eager"
                       decoding="async"
